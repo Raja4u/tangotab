@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<!-- <class name="com.tangotab.TO.BookDealTO" table="">  
+        <property name="absorption" column="Absorption"></property>  
+    </class>
+	<sql-query name="SP_BOOK_DEAL" callable="true">
+		<return alias="emp" class="testBookDeal">
+			<return-property name="employee" column="EMPLOYEE"/>
+			<return-property name="employer" column="EMPLOYER"/>
+			<return-property name="startDate" column="STARTDATE"/>
+			<return-property name="endDate" column="ENDDATE"/>
+			<return-property name="regionCode" column="REGIONCODE"/>
+			<return-property name="id" column="EID"/>
+			<return-property name="salary"/>
+			<return-property name="VALUE"/>
+			<return-property name="CURRENCY"/>
+		</return>
+		{ ? = call selectAllEmployments() }
+	</sql-query> -->
+</hibernate-mapping>

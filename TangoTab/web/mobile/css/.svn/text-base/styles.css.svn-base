@@ -1,0 +1,22 @@
+/* CSS Document */
+
+body{margin:0; padding:0px;}
+.mainbox {
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	height:auto;
+	width: 320px;
+	background-position: center top;
+}
+.text1{font-family:calibri; font-size:24px; font-style:normal; color:#000000; font-weight:bold; text-align:center;}
+.text2{font-family:calibri; font-size:24px; font-style:normal; color:#FF6600; font-weight:bold; text-align:center;}
+.padding1{padding-top:10px;}
+.text_box{margin:0px;padding:4px;font-size:18px;width:85%;height:auto;border:1px solid #999999;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;}
+.text3{font-family:calibri; font-size:14; font-style:normal; color:#000000; font-weight:normal;}
+.text4{font-family:calibri; font-size:14; font-style:normal; color:#ff9838; font-weight:normal;}
+.text4 a{font-family:calibri; font-size:20; font-style:normal; color:#ff9838; font-weight:normal;}
+.text4:hover{font-family:calibri; font-size:14; font-style:normal; color:#ff9838; font-weight:normal; text-decoration:underline;}
+.text5{font-family:calibri; font-size:25px; font-style:normal; color:#000000; font-weight:bold; text-decoration:none;}
+.text6{font-family:calibri; font-size:16px; font-style:normal; color:#000000; font-weight:bold; text-decoration:none;}
+.text7{font-family:calibri; font-size:16px; font-style:normal; color:#ff9838; font-weight:bold; text-decoration:none;}
+.text8{font-family:calibri; font-size:28px; font-style:normal; color:#000000; font-weight:bold;}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.tangotab.dao.pojo.RestaurantDealHistory" table="restaurant_deals_history">
+        <id name="dealHistoryId" type="java.lang.Integer">
+            <column name="REST_DEAL_HISTORY_ID" />
+            <generator class="identity" />
+        </id>
+          <many-to-one name="restaurantDeal" class="com.tangotab.dao.pojo.RestaurantDeal" fetch="select" lazy="proxy" update="false">
+            <column name="REST_DEAL_ID"  />
+        </many-to-one>
+        <property name="availableDealsQty" type="java.lang.Integer">
+            <column name="AVAILABLE_DEALS_QTY" />
+        </property>
+        <property name="usedDealsQty" type="java.lang.Integer">
+            <column name="USED_DEALS_QTY" />
+        </property>
+        <property name="restDealStartDate" type="java.util.Date">
+            <column name="DEAL_DATE"   />
+        </property>
+         
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,139 @@
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+@font-face {
+    font-family: "Dakota";
+    font-style: normal;
+    font-weight: normal;
+    src: url("dakota-regular.eot?#iefix") format("embedded-opentype"), url("dakota-regular.woff") format("woff"), url("dakota-regular.ttf") format("truetype"), url("dakota-regular.svg#dakota-regular") format("svg");
+}
+.cantainer{width:640px; margin:0px auto;}
+.mainbox {
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 640px;
+}
+.text1 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.text2 {
+    color: #FF6600;
+    font-family: calibri;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.padding1 {
+    padding-top: 10px;
+}
+.text_box {
+    border: 1px solid #999999;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 18px;
+    height: auto;
+    margin: 0;
+    padding: 4px;
+    width: 85%;
+}
+.text3 {
+    color: #000000;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4 {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4 a {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4:hover {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline;
+}
+.text5 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: bold;
+    padding: 15px 0;
+    text-decoration: none;
+}
+.text6 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.text7 {
+    color: #FF9838;
+    font-family: calibri;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.text8 {
+    color: #000000;
+    font-family: Dakota;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+input.placeholder {
+    color: #666;
+}
+
+/*----------------*/
+.landing_page_bg{background:url(../images/tangotab_landing_bg@2x.png) no-repeat;}
+.landing_page_bg h1{font-size:36px;   font-family: calibri; color:#646464; line-height:33px; text-shadow:-3px 0px 2px #fff; -moz-text-shadow:-3px 0px 2px #fff; -webkit-text-shadow:-3px 0px 2px #fff;}
+.landing_page_bg h1 span{ color:#f57e20;}
+
+.landing_page_bg h2{font-size:28px;   font-family: calibri; color:#646464; line-height:17px; font-style:italic; margin:0px; padding:0px; text-shadow:-3px 0px 2px #fff; -moz-text-shadow:-3px 0px 2px #fff; -webkit-text-shadow:-3px 0px 2px #fff;}
+.landing_page_bg h2 span{ color:#f57e20;}
+.landing_search_bg{ background:#626262; height:84px; padding-top:5px;}
+
+.land_search_input{border:none; background:url(../images/search_bg@2x.png) no-repeat;  height:60px; width:360px; padding:0px 20px 0 56px; color:#666; font-size:24px;}
+
+/*---SignIn_SignUp03.png---*/
+.defualt_bg{background:url(../images/iphone_bg@2x.png) no-repeat;}
+.fb_bg{background:url(../images/facebook_bg@2x.png) no-repeat; margin:0px auto; width:608px; color:#646464; font-size:34px; font-family:Arial, Helvetica, sans-serif; height:571px; }
+.fb_bg .fb_sign{padding:15px 21px 0px 21px;}
+.fb_bg .or{text-align:center; width:100%; font-size:27px; margin-bottom:14px;}
+.fb_bg .fb_sign_bt{height:130px; border-top:solid 2px #ababab; padding:12px 0; text-align:center; font-size:27px !important; margin:0px 2px; clear:both;}
+.fb_bg .email_sigin{ margin:10px 2px 0px 2px;}
+.fb_bg .email_sigin_border{border-top:solid 2px #ababab; margin-bottom:10px; clear:both;}
+.fb_bg label{width:200px; height:52px; margin:0 0 8px 20px; float:left; font-weight:bold; color:#000; padding:10px 0 0;}
+.fb_bg input{width:320px; height:62px; margin:0 0 8px 0px; float:left;  color:#666; background:url(../images/input_bg@2x.png) no-repeat; border:none; padding:0 20px; font-size:34px;}
+
+
+
+
+.fb_signup_bg{background:url(../images/sign_up_bg@2x.png) no-repeat; margin:14px auto 0px auto; width:560px; color:#646464; font-size:34px; font-family:Arial, Helvetica, sans-serif; height:162px; padding:18px 24px;  }
+.mt-20{margin:20px auto 0 5px;}
+
+
+

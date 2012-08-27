@@ -1,0 +1,136 @@
+ {
+    border: 0 none;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none outside none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+#facebox {
+    left: 0;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    z-index: 20000;
+}
+#facebox .popup {
+    border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+#facebox .content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+    overflow: hidden;
+    padding: 10px;
+    width: 410px;
+}
+#facebox .content img {
+    max-width: 410px;
+}
+#facebox .content > p:first-child {
+    margin-top: 0;
+}
+#facebox .content > p:last-child {
+    margin-bottom: 0;
+}
+#facebox .close {
+    left: -15px;
+    outline: medium none;
+    position: absolute;
+    top: -15px;
+}
+#facebox .close img {
+    opacity: 0.9;
+}
+#facebox .close:hover img {
+    opacity: 1;
+}
+#facebox .loading {
+    text-align: center;
+}
+#facebox .image {
+    text-align: center;
+}
+#facebox img {
+    border: 0 none;
+    margin: 0;
+}
+#facebox_overlay {
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.facebox_hide {
+    z-index: -100;
+}
+.facebox_overlayBG {
+    background-color: #000000;
+    z-index: 19999;
+}
+#facebox h2.faceboxTitle {
+    background: none repeat scroll 0 0 #0CBADF;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    margin: -10px -10px 0;
+    padding: 8px 10px;
+}
+
+.alerts_notice {
+    background: none repeat scroll 0 0 #FFCB00;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    color: #AB8800;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 40px;
+    margin: -10px 0 10px;
+    text-align: center;
+    width: 100%;
+}
+.pagination {
+    float: right;
+    overflow: hidden;
+}
+.pagination .selected, .pagination a, .pagination span {
+    background: none repeat scroll 0 0 #F0F1F2;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+    float: left;
+    margin-right: 4px;
+    padding: 4px 8px;
+}
+.pagination .selected {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+}
+.pagination .more {
+    display: block;
+    float: left;
+    margin-right: 4px;
+}

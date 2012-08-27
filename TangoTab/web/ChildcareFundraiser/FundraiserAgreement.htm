@@ -1,0 +1,828 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+<title>:: TangoTab ::</title> 
+ 
+ 
+ 
+<link href="http://www.tangotab.com//css/tangotab.css" rel="stylesheet" type="text/css" /> 
+<link href="http://www.tangotab.com//css/scrollcolor.css" rel="stylesheet" type="text/css" /> 
+<link rel="stylesheet" type="text/css" href="http://www.tangotab.com/css/jqueryslidemenu.css" /> 
+<link href="http://www.tangotab.com/css/scrollcolor.css" rel="stylesheet" type="text/css" /> 
+<link rel="stylesheet" type="text/css"  href="http://www.tangotab.com/css/jqueryslidemenu.css" /> 
+<link rel="stylesheet" type="text/css" href="http://www.tangotab.com/css/calendar-blue2.css"/> 
+<link href="http://www.tangotab.com/css/menu.css" rel="stylesheet" type="text/css" /> 
+
+	<style> 
+		.header 	{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666;}
+		.title  	{font-family:Arial, Helvetica, sans-serif; font-size:28px; font-weight:bold; color:#7d9b17;} 
+		.dealtitle  {font-family:Arial, Helvetica, sans-serif; font-size:24px; font-weight:bold; color:#7d9b17;} 
+		.title2	  	{font-family:Arial, Helvetica, sans-serif; font-size:20px; font-weight:bold; color:#7d9b17;} 
+		.dealtext	{font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000;} 
+	</style> 
+ 
+ 
+ 
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{font-family:"Times New Roman","serif";
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+p.TL01-1-1, li.TL01-1-1, div.TL01-1-1
+	{mso-style-name:TL01-1-1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:.5in;
+	text-align:justify;
+	text-indent:-.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.TL01-1-2, li.TL01-1-2, div.TL01-1-2
+	{mso-style-name:TL01-1-2;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:.5in;
+	text-align:justify;
+	text-indent:-.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.TL01-1-3, li.TL01-1-3, div.TL01-1-3
+	{mso-style-name:TL01-1-3;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:1.0in;
+	text-align:justify;
+	text-indent:-.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.GC01-2-6, li.GC01-2-6, div.GC01-2-6
+	{mso-style-name:GC01-2-6;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.GC01-2-7, li.GC01-2-7, div.GC01-2-7
+	{mso-style-name:GC01-2-7;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.GC01-2-8, li.GC01-2-8, div.GC01-2-8
+	{mso-style-name:GC01-2-8;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.GC01-2-9, li.GC01-2-9, div.GC01-2-9
+	{mso-style-name:GC01-2-9;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.25in 40.3pt 1.0in 41.75pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+ 
+	
+ 
+ 
+<body> 
+	<div id="wrap"> 
+		<link rel="shortcut icon"  href="http://www.tangotab.com/images/TangoT_Icon.ico" /> 
+		<div id="fb-root"></div> 
+ 
+ 
+<div class="header"> 
+	<div class="social_top"> 
+		<div class="facebook_l"> 
+			<div id="facebook_like"> 
+				<fb:like href='http://www.tangotab.com/jsp/index.jsp' show_faces="false" layout="button_count" width="450" colorscheme="light"></fb:like> 
+	</div> 
+ 
+			<!--<div class="facebook_com">0</div>
+			<div class="like_text">0 people like this. Be the first of your friends .</div>--> 
+			
+		</div> 
+		<div class="like_text"></div> 
+		<div class="social_l"> 
+<div id="tweet_like"> 
+	 <a href="http://twitter.com/share" class="twitter-share-button" data-url='http://www.tangotab.com/jsp/index.jsp' data-text="I'm getting hot deals at cool restaurants with TangoTab and now you can too!" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> 
+</div> 
+		<div id="email_like"><a href="#" title="Email"></a></div> 
+		</div> 
+ 
+	</div> 
+	<div class="logo"><h1> 
+	 <a href="http://www.tangotab.com/jsp/index.jsp"></a> 
+	 </h1></div> 
+		<div class="fr"><div class="top_navbox"><table width="225" border="0" align="center" cellpadding="0" cellspacing="0"> 
+  <tr> 
+  
+    <td width="83" align="center" valign="top"> 
+    <!-- <a href="http://www.facebook.com" target="_blank"><img src="../images/facebook-icn.png" width="15" height="15" /></a>
+    --></td> 
+    <td width="83" align="center" valign="top"><a href="http://www.tangotab.com/jsp/login.jsp"><img src="http://www.tangotab.com/images/login-icon.png" border="0" width="15" height="18" /></a></td> 
+ 
+    <td width="83" align="center" valign="top"><a href="http://www.tangotab.com/jsp/consumer_registration.jsp"> 
+    <img src="http://www.tangotab.com/images/createicon.png" border="0"  width="18" height="18" /></a></td> 
+    
+    
+  </tr> 
+  <tr> 
+    
+    <td height="22" align="center" valign="middle"> 
+    <!-- <a href="http://www.facebook.com"  target="_blank">Login</a>--></td> 
+    <td align="center" valign="middle"><a href="http://www.tangotab.com/jsp/login.jsp">Login</a></td> 
+    <td align="center" valign="middle"><a href="http://www.tangotab.com/jsp/consumer_registration.jsp">Sign up</a></td> 
+ 
+    
+      
+  </tr> 
+</table> 
+</div> 
+<div class="download_tg"><a href="http://www.tangotab.com/jsp/mobileapps.jsp"><img src="http://www.tangotab.com/images/download-app.jpg" width="212" height="50" border="0"/></a> 
+</div></div> 
+ 
+ 
+ 
+ 
+	<div id="navigation"> 
+		<div class="nav_l"></div> 
+		<div class="nav_m"> 
+			
+			<div id="menu"> 
+				<ul> 
+ 
+					<li style="margin-left:0px;"> 
+					
+					
+				 
+					<a href="http://www.tangotab.com/jsp/index.jsp" id="home" title="Home"><span>Home</span></a> 
+					
+					</li> 
+					<li> 
+					
+						
+						
+						
+					</li> 
+					<div class="nav_divider"></div><li><a href="http://www.tangotab.com/jsp/how_it_works.jsp" id="Learn More" title="Learn More"><span>Learn More</span></a></li> 
+					
+					
+						
+							 <div class="nav_divider"></div>	
+						<!-- <div class="nav_divider"></div>	--> 
+ 
+						 <li>					
+						<a href="http://www.tangotab.com/jsp/searchForward.do" id="searchdeals" title="Search Deals"><span>Search Deals</span> 
+							</a> 
+							</li> 
+						
+				 </ul> 
+			</div>	
+		</div> 
+		<div class="nav_r"></div> 
+ 
+	</div> 
+</div> 
+ 
+
+<div class=WordSection1>
+
+<p class=MsoTitle><span style='color:black'>Tangotab, Inc.</span></p>
+
+<p class=MsoSubtitle><span style='color:black'>Fundraising Entity Agreement</span></p>
+
+<p class=MsoNormal align=center style='margin-top:6.0pt;text-align:center'><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>1820
+Preston Park Blvd, Suite 1900, Plano, Texas 75093</span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>&nbsp;</span></b></p>
+
+<p class=MsoNormal><b><span style='font-family:"Arial","sans-serif";color:black'>Fundraising
+Agreement</span></b></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Welcome to Tangotab.</span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Tangotab is an online business promotion / advertising service
+located at </span><span style='color:black'><a href="http://tangotab.com"><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>http://tangotab.com</span></a>
+</span><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>and other online areas owned or operated by Tangotab (the
+&quot;Site&quot;). The Services (the “Services”) include but are not limited to
+the opportunity for your Center to raise funds by promoting the Site. The Site
+and Services are collectively referred to herein as &quot;Tangotab.&quot;</span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>“Fundraising Center” or “you” is the person and/or entity that is
+registering to raise funds through the promotion of Tangotab’s Site and/or
+Services.  Tangotab, Inc. is sometimes referred to as “Tangotab” “we” “us” or
+“our.” You and Tangotab are sometimes individually referred to as a “Party” and
+collectively as the “Parties.” </span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>The following terms and conditions (the “Terms and Conditions”)
+create a legally binding agreement (the “Agreement”) between you and Tangotab.</span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>By registering for or using the Site or any of our Services, you
+agree to follow and to be bound by these Terms and Conditions, our Privacy
+Policy (published at </span><span style='color:black'><a
+href="http://tangotab.com/privacy.jsp"><span style='font-size:9.0pt;font-family:
+"Arial","sans-serif";color:black'>http://tangotab.com/privacy.jsp</span></a></span><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>) and our
+Terms of Use (published at </span><span style='color:black'><a
+href="http://tangotab.com/terms.jsp"><span style='font-size:9.0pt;font-family:
+"Arial","sans-serif";color:black'>http://tangotab.com/terms.jsp</span></a></span><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>), both of
+which are incorporated herein by reference.</span></p>
+
+<p class=MsoNormal><b><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Agreement:</span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>&nbsp;</span></b></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>I agree to the following <b>Fundraising</b> Agreement (“<b>Agreement</b>”)
+between <b><span style='text-transform:uppercase'>TANGOTAB, INC</span></b>, a Delaware
+corporation (“<b>Tangotab</b>”) with offices in Plano, Texas and us (“<b>Fundraising
+Entity</b>”) (individually, “Party” and collectively the “Parties”). In
+consideration of the mutual agreements contained herein and intending to be
+legally bound hereby, Tangotab and Fundraising Entity hereby agree to all of
+the following terms and conditions:</span></p>
+
+<p class=TL01-1-2 style='margin-left:0in;text-indent:0in'><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'> </span></p>
+
+<p class=TL01-1-1><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Relationship of the Parties – </span></b><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>Fundraising
+Entity’s relationship to Tangotab is that of an independent contractor. Fundraising
+Entity is not an agent or employee of Tangotab. Fundraising Entity shall have
+no authority to bind Tangotab. Fundraising Entity shall promote Tangotab’s
+services to Entity’s customers and/or members.</span></p>
+
+<p class=TL01-1-1><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Commission Payments</span></b></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>2.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Commissions</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Tangotab shall pay to Fundraising
+Entity commissions calculated as follows:</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Eligible customers and/or members referred to Tangotab by Fundraising
+Entity will be identified through a unique URL provided by Tangotab for the Fundraising
+Entity to use with its customers and/or members.</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Fundraising Entity will receive 5% of reservation transaction fee in
+commission for each individual registered and 6.25% of reservation transaction
+fee in commission for reservations</span><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'> made by individual (as
+identified in item #2.1 (a) above) for</span><i><span lang=EN-CA
+style='color:black'> </span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>one full year from time of
+registration.</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Revenues, as used in item 2.1(b) above, is defined as:</span></p>
+
+<p class=TL01-1-3 style='margin-left:1.5in'><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>(i)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Gross revenues less Sales Taxes, Refunds, Invalidated Credit Card
+Transactions and Credit Card Processing Fees as applicable.</span></p>
+
+<p class=TL01-1-3 style='margin-left:2.0in'><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>(1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Sales Taxes</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'> shall include all applicable
+federal, state and local sales taxes payable imposed on the restaurant
+reservations made by the customers and/or members of the Fundraising Entity;</span></p>
+
+<p class=TL01-1-3 style='margin-left:2.0in'><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>(2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Refunds</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'> shall include all revenues
+credited to the customers and/or members of the Fundraising Entity;</span></p>
+
+<p class=TL01-1-3 style='margin-left:2.0in'><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>(3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Invalidated Credit Card Transactions</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'> include,
+but are not limited to: (a) credit card transactions invalidated due to
+fraudulent card use or over-limit accounts, and (b) credit card transactions
+invalidated by charge-backs;</span></p>
+
+<p class=TL01-1-3 style='margin-left:2.0in'><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>(4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Credit Card Processing Fees</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'> include,
+but are not limited to, the credit card fees, charge-back fees and other bank
+related order processing fees.</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>All commissions due per this Agreement shall be payable only for
+as long as this Agreement is in full force and affect and has not been
+terminated by either party.   </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>2.2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Commission Statements</span></i><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>. Tangotab shall provide Fundraising
+Entity with quarterly commission statements.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>2.3<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Payment Terms</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Tangotab shall pay all commissions
+due to Fundraising Entity by the 10<sup>th</sup> day following the end of each
+quarter. </span><span lang=EN-CA style='font-size:10.0pt;font-family:"Verdana","sans-serif";
+color:black'> </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>2.4<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Expenses</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. The Fundraising Entity shall be
+solely responsible for the expenses incurred by Fundraising Entity in the promotion
+of Tangotab’s services to the Fundraising Entity’s customers and/or members.</span></p>
+
+<p class=TL01-1-2 style='margin-left:0in;text-indent:0in'><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>&nbsp;</span></p>
+
+<p class=TL01-1-2><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Eligible  Referrals</span></b><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'> </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>3.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>To be eligible for commissions, the customers must be over the age
+of 18 and live within the US or Canada.  </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>3.2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Commissions for referrals will not be paid to Fundraising Entity
+where the information regarding the referral was received previously by Tangotab
+through a source independent of the Fundraising Entity.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>3.3<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>If the Fundraising Entity disputes Tangotab’s receipt of the referral
+from another source prior to Fundraising Entity’s referral, Tangotab’s VP of
+Sales will resolve all such disputes. Fundraising Entity agrees that the
+decision of the VP of Sales will be final and binding on the Fundraising Entity
+and may not be appealed or disputed in any other forum.</span></p>
+
+<p class=TL01-1-1><a name=conf><b><span lang=EN-CA style='font-size:10.0pt;
+font-family:"Arial","sans-serif";color:black'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Confidential</span></b></a><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'> <b>Information</b> </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>4.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Definition</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. In this Article,
+&quot;Confidential Information&quot; means all information belonging to Tangotab,
+Fundraising Entity, the Customers and/or Members of the Fundraising Entity that
+is designated as confidential in this Agreement or which ought to be considered
+as confidential from its nature or from the circumstances surrounding its
+disclosure, including without limitation all regulatory, commercial, financial,
+administrative and technological information of either party and any
+information concerning this Agreement except information which:</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>is known to the receiving party before receipt from the other
+party, as substantiated by cogent and reliable evidence;</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>is disclosed to the receiving party in good faith by a third party
+who had a right to make such disclosure;</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>is made public by the originating party, or is established to be a
+part of the public domain otherwise than as a consequence of a breach by the
+receiving party of its obligations hereunder; or</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>is required to be disclosed by law or by a valid order of any
+governmental body or competent securities regulatory authority, provided that
+the receiving party shall give the disclosing party reasonable notice of such
+disclosure and shall take all reasonable steps available to maintain the
+information in confidence.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>4.2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Limited Use</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. All Confidential Information of
+each party shall be used by the other party strictly and only for the purposes
+in this Agreement.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>4.3<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Reasonable Care</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Each party shall have a
+fiduciary duty to hold all Confidential Information of the other party in
+confidence strictly for, and on behalf of the other party. </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>4.4<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Obligations of the parties</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>. Each
+party shall have an obligation commensurate with the duty of care set out in
+this Article to prevent the other party's Confidential Information in its
+possession control from being misappropriated or wrongfully communicated by any
+business partner, employee, consultant or other person under the obliged
+party's control.</span></p>
+
+<p class=TL01-1-1><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Term and</span></b><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'> <b>Termination</b> </span></p>
+
+<p class=TL01-1-2><a name=termination><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>5.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Term</span></i></a><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. The initial term of this
+Agreement </span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>shall be for a period of one (1) year commencing from the
+Effective Date and thereafter this Agreement shall automatically renew for
+additional one (1) year periods unless either Party provides the other Party
+with written notice of termination at least 30 days prior to the expiration of
+the then current term and this Agreement has not been terminated prior</span><span
+lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>
+to the renewal date for reasons set out below.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>5.2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Termination in the Ordinary Course</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>. This
+Agreement will terminate in the ordinary course upon the expiration of the last
+term. Thereafter, neither Party shall have any further obligation to the other
+under this Agreement except for those obligations, which are expressly stated
+to survive.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>5.3<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Termination for Cause</span></i><span lang=EN-CA style='font-size:
+9.0pt;font-family:"Arial","sans-serif";color:black'>. Either party will have
+the right to immediately terminate this Agreement if: </span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>the other party breaches any material obligation under this
+Agreement and such breach has continued un-remedied for a period of ten (10)
+days after receiving written notice of the breach.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>&nbsp;</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>5.4<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Termination by Tangotab</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>. This
+Agreement may be terminated immediately by Tangotab if:</span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Fundraising Entity refuses to comply with any reasonable
+instruction, whether written or oral, of Tangotab or its officers within the
+earlier of (i) thirty (30) days of the date of such order or instruction even
+after the opportunity to comply; or (ii) such shorter period of time that is
+reasonable considering the particular circumstances relating to the making of
+such instruction; </span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Fundraising Entity is convicted of any criminal offence; </span></p>
+
+<p class=TL01-1-3><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>(c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>At any time at Tangotab’s sole discretion.</span></p>
+
+<p class=TL01-1-1><a name=riskmgmt><b><span lang=EN-CA style='font-size:10.0pt;
+font-family:"Arial","sans-serif";color:black'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Indemnity</span></b></a><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Fundraising Entity agrees to
+indemnify, defend, and hold Tangotab and its successors and assigns, officers,
+directors, agents, and employees harmless from any actions, causes of actions, claims,
+demands, losses, damages, penalties, judgments and liabilities, including all
+reasonable costs and expenses related thereto (including attorney’s fees),
+arising out of or in connection with any failure to perform or breach of any
+obligation, warranty, duty, restrictive covenant, representation or
+responsibility under this Agreement by Fundraising Entity.</span></p>
+
+<p class=TL01-1-2><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Warranty</span></b><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>.<b> </b>THE OBLIGATIONS OF
+TANGOTAB EXPRESSLY STATED IN THIS AGREEMENT ARE IN LIEU OF ALL OTHER WARRANTIES
+OR CONDITIONS EXPRESS OR IMPLIED. WITHOUT LIMITATION, TO THE FULLEST EXTENT
+ALLOWABLE BY LAW, THIS EXCLUSION OF ALL OTHER WARRANTIES AND CONDITIONS EXTENDS
+TO IMPLIED WARRANTIES OR CONDITIONS OF SATISFACTORY QUALITY, MERCHANTABLE
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE, AND THOSE ARISING BY STATUTE OR
+OTHERWISE IN LAW, OR FROM A COURSE OF DEALING OR USAGE OF TRADE.</span></p>
+
+<p class=TL01-1-2><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Limitations of Liability</span></b><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>.<b> </b></span><span
+lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>Under
+no circumstances will Tangotab be liable for indirect, incidental,
+consequential, special, or exemplary damages arising from any provision of this
+Agreement. Without limiting the foregoing, Tangotab’s aggregate liability
+arising with respect to this Agreement will not exceed the total commission
+paid or payable to Fundraising Entity, under this Agreement.</span></p>
+
+<p class=TL01-1-1><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><b><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>General</span></b></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>9.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Authority</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Each party represents and
+warrants that it has full power and authority to enter into this Agreement and
+convey the rights conveyed herein. Each party further represents that it has
+not entered into nor will it enter into any agreements that would conflict with
+its obligations hereunder or render it incapable of satisfactorily performing
+hereunder.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>9.2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Governing Law</span></i><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. This Agreement shall be
+governed by and construed in accordance with the laws of the State of Delaware.
+The sole jurisdiction and venue for actions related to the subject matter of
+this Agreement shall be Dallas, Texas. </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>9.3<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Successors and Assigns</span></i><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'>. All
+successors, receivers, managers, trustees and permitted assigns of the parties
+will be bound by the rights and liabilities set out in this Agreement.</span></p>
+
+<p class=TL01-1-2><a name=survive><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>9.4<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><i><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Survival</span></i></a><span lang=EN-CA style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>. Articles 4, 6, 7 and 8 will
+survive termination of this Agreement.</span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>9.5<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Notice. Notices required or permitted by this Agreement shall in
+writing, shall be delivered to the official mailing addresses of the entities, and
+shall be deemed sufficient upon receipt, when delivered if personally
+delivered, upon confirmation of facsimile receipt if sent via facsimile, on the
+next business day if sent via overnight courier, or three (3) days after
+deposit in the United States mail, postage prepaid, registered or certified
+mail, return receipt requested.</span></p>
+
+<p class=MsoBodyText style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;text-indent:.5in'><span lang=EN-CA
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'> </span></p>
+
+<p class=TL01-1-2><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>9.6<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-CA style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>Entire Agreement. This Agreement constitutes the final and entire
+agreement between the parties with respect to the subject matter of this
+Agreement and supersedes all proposals, oral or written, all negotiations,
+conversations, discussions or agreements between or among the parties relating
+to the subject matter.  No changes, amendments or modifications of any of the
+terms or conditions of this Agreement shall be valid unless made in writing and
+accepted by both parties.</span></p>
+
+<p class=MsoBodyText><b><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>IN WITNESS WHEREOF, </span></b><span style='font-size:9.0pt;
+font-family:"Arial","sans-serif";color:black'>Tangotab and Fundraising Entity
+represent that they have read this Agreement, understand it and hereby covenant
+and agree to be bound by all the terms and conditions stated herein as of the
+Effective Date.   </span></p>
+
+<p class=MsoBodyText><span style='font-size:9.0pt;font-family:"Arial","sans-serif";
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:24.0pt'><a name="_DV_M293"></a><span
+style='font-size:9.0pt;font-family:"Arial","sans-serif";color:black'> <b>                                                                                                                                 </b></span></p>
+
+<p class=MsoNormal><span style='color:black'>&nbsp;</span></p>
+
+</div>
+<div style="clear:both;"></div> 
+<div style="background-color:#FFF;" id="footer-inner"> 
+		<div class="footer_in"> 
+ 
+			<a href="http://www.tangotab.com/jsp/aboutus.jsp" style="text-decoration:none;  color:ffffff; font-family:arial; font:ffffff;">About Us</a>  I  
+			<a href="http://www.tangotab.com/jsp/affiliates.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Affiliates</a>  I  
+			<a href="http://www.tangotab.com/jsp/press.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Press</a> I  
+			<a href="http://www.tangotab.com/jsp/jobs.jsp"  style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Jobs</a>  I  
+			<a href="http://www.tangotab.com/jsp/contact_us.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Contact Us</a>  I  
+			<a href="http://www.tangotab.com/jsp/support_us.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Support</a>  I  
+			<a href="http://www.tangotab.com/jsp/privacy_policy.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Privacy</a>  I  
+			<a href="http://www.tangotab.com/jsp/terms.jsp" style="text-decoration:none; color:ffffff; font-family:arial; font:ffffff;">Terms</a>  
+			<br/> 
+			<br/> 
+			Copyright © 2000-2011 TangoTab.com All rights reserved.
+		</div> 
+ 
+</div> 
+ 
+ 
+<div style="clear:both;"></div> 
+</div> 
+</body> 
+</html> 

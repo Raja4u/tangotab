@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.background {
+	background-attachment: fixed;
+	height: auto;
+	width: 320px;
+	position: absolute;
+}
+.padding1 {
+	padding: 5px;
+}
+.text1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+}
+-->
+</style>
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <th scope="row"><table width="320" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <th align="center" valign="top" class="background" scope="row"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="center" valign="top" class="mainbox" scope="row"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" valign="top" scope="row"><img src="images/logo.png" alt="Tangotab" class="padding1" /></td>
+                </tr>
+                <tr>
+                  <td height="10" align="center" valign="top" scope="row"></td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" scope="row" class="text1">FREE SERVICE </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" class="text1" scope="row">FREE OFFERS </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" class="text2" scope="row">GREAT CAUSE </td>
+                </tr>
+                <tr>
+                  <td height="10" align="center" valign="top" scope="row"></td>
+                </tr>
+                <tr>
+                  <td height="45" align="center" valign="top" class="" scope="row"><input type="text" name="textfield"  class="text_box" id="textfield4" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'First Name':this.value;" value="First Name" /></td>
+                </tr>
+                <tr>
+                  <td height="45" align="center" valign="top" class="" scope="row"><input type="text" name="textfield2"  class="text_box" id="textfield4" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Last Name':this.value;" value="Last Name" /></td>
+                </tr>
+                <tr>
+                  <td height="45" align="center" valign="top" class="" scope="row"><input type="text" name="textfield3"  class="text_box" id="textfield4" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Email Address':this.value;" value="Email Address" /></td>
+                </tr>
+                <tr>
+                  <td height="45" align="center" valign="top" class="" scope="row"><input type="password" name="textfield4"  class="text_box" id="textfield4" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Password':this.value;" value="Password" /></td>
+                </tr>
+                <tr>
+                  <td height="45" align="center" valign="top" class="" scope="row"><input type="text" name="textfield5"  class="text_box" id="textfield4" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Zip Code':this.value;" value="Zip Code" /></td>
+                </tr>
+                <tr>
+                  <td height="10" align="center" valign="top" class="" scope="row"></td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" class="" scope="row"><table width="90%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="11%" align="center" valign="middle" scope="row"><input type="checkbox" name="checkbox" value="checkbox" /></td>
+                        <td width="89%" align="left" valign="top" class="text3" scope="row">By checking and pressing Sign Up, I certify I have read and agree to the <span class="text4">privacy policy</span> and <span class="text4">terms of use</span> of TangoTab </td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td height="10" align="center" valign="top" class="" scope="row"></td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" class="" scope="row"><a href="#"><img src="images/signup_btn.png" alt="Sign Up" border="0" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" valign="top" class="" scope="row"></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></th>
+      </tr>
+    </table></th>
+  </tr>
+</table>
+</body>
+</html>

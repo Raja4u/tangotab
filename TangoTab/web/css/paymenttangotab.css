@@ -1,0 +1,661 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0px; padding:0px; background:#fff url(http://50.17.229.193:8080/TangoTab/images/bg.jpg) left top repeat-x; font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000000;}
+p,table,td,tr,ul,li,ol,h1,h2,h3,h4,h5,h6,form{ margin:0px; padding:0px;}
+a{ outline:none;}
+
+
+#wrap{ margin:0px auto; padding:0px; width:967px; clear:both;}
+.header{ float:left; width:100%; padding:0px;}
+.pwd_div {
+	float: left;
+	height: 24px;
+	width: 175px;
+}
+.fr{ float:right; display:block;  width:auto;}
+
+/*Top Social Icons Css Start From Here*/
+.social_top{ float:left; width:100%; padding:0px; margin-top:5px; margin-bottom:5px;}
+.red_max {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	color: #e46c0e;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.text_h3 {
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.text_h9 {
+	font-family: Verdana;
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: 400;
+	color: #232222;
+	text-decoration: none;
+}
+.text_h9 a:link {
+color: #232222;
+text-decoration: none;
+}
+.text_h9 a:visited {
+color: #232222;
+text-decoration: none;
+}
+.text_h10 {
+	font-family: Verdana;
+	font-size: 9px;
+	line-height: 16px;
+	font-weight: 400;
+	color: #232222;
+	text-decoration: none;
+}
+
+.text_h9b {
+	font-family: Verdana;
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: 600;
+	color: #232222;
+	text-decoration: none;
+}
+.white_max{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-style: normal;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 8px;
+}
+.white_max1{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 8px;
+}
+
+.white_madium {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 8px;
+}
+.bla_low {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 400;
+}
+.red {
+	font-family: verdana;
+	font-size: 12px;
+	font-style: normal;
+	color: #000;
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 19px;
+}
+.table_dark {
+	background-color: #e5e5e5;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	padding-left: 8px;
+	height: 24px;
+	vertical-align: middle;
+}
+.table_light {
+	background-color: #ececec;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	padding-left: 8px;
+	height: 24px;
+	vertical-align: middle;
+}
+
+.facebook_l{ float:left; width:450px; padding:0px;}
+.social_l{ float:right; width:200px; padding:0px;}
+#facebook_like a{float:left;height: 21px; width: 61px; background: url(http://50.17.229.193:8080/TangoTab/images/facebook_like.png) no-repeat left top; }
+#facebook_like a:hover{background-position: left -21px;}
+#tweet_like a{float:left;height: 21px; width: 55px; background: url(http://50.17.229.193:8080/TangoTab/images/tweeter_icon-top.gif) no-repeat left top; }
+#tweet_like a:hover{background-position: left -21px;}
+#email_like a{float:right;height: 21px; width: 80px; background: url(http://50.17.229.193:8080/TangoTab/images/email_icon.gif) no-repeat left top; }
+#email_like a:hover{background-position: left -21px;}
+.facebook_com{ float:left; width:34px; padding:0px; margin-left:10px; background:url(http://50.17.229.193:8080/TangoTab/images/facebook_comments.gif) left top no-repeat; font:normal 10px Arial, Helvetica, sans-serif; color:#000; height:16px; display:block; text-align:center; padding-top:4px;}
+.like_text{ float:left; width:320px; padding:0px; font: normal 11px "Century Gothic", Arial, Helvetica, sans-serif; line-height:18px; color:#ededed; padding-left:15px;}
+/*Top Social Icons Css End Here*/
+
+/*Logo and the Facebook registration start from here*/
+.logo{ float:left; width:173px; padding:0px;}
+.logo h1{ margin:0px; padding:0px; border:none; margin-top:22px; background:url(http://50.17.229.193:8080/TangoTab/images/logo.png) left top no-repeat; height:58px; display:block;}
+.logo h1 a{ margin:0px; padding:0px; border:none; background:url(http://50.17.229.193:8080/TangoTab/images/logo.png) left top no-repeat; height:58px; display:block;}
+.logo h1 a:hover{ margin:0px; padding:0px; border:none; background:url(http://50.17.229.193:8080/TangoTab/images/logo.png) left top no-repeat; height:58px; display:block;}
+.facebook_bg{ float:right; width:203px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/facebook_reg-bg.gif) left top no-repeat; height:43px; margin-top:22px; padding:7px;}
+.facebook_bg h1{ margin:0px; padding:0px; font:bold 13px  "Century Gothic", Arial, Helvetica, sans-serif; color:#525252;}
+.facebook_bg h1 a{ margin:0px; padding:0px; font:bold 13px  "Century Gothic", Arial, Helvetica, sans-serif; color:#525252; text-decoration:none;}
+.facebook_bg h1 a:hover{ margin:0px; padding:0px; font:bold 13px  "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.facebook_bg img{ float:right; width:47px; padding:0px; height:37px; border:1px solid #999999; overflow:hidden;}
+/*Logo and the Facebook registration end here*/
+
+/*Navigation start from here*/
+#navigation{ float:left; width:100%; padding:0px; margin-top:8px;}
+.nav_l{ float:left; width:12px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_l.png) left top no-repeat; height:60px; display:block;} 
+.nav_r{ float:left; width:12px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_r.png) left top no-repeat; height:60px; display:block;}
+.nav_m{ float:left; width:943px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_m.png) left top repeat-x; height:47px; display:block; padding-top:11px;}
+#menu{width:100%;margin:0px;}
+#menu ul{list-style:none;}
+#menu li{list-style:none;display:block;float:left;margin:0 0px;}
+#menu li a{display:block;float:left;height:49px;color:#fff;font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif;line-height:49px;padding:0 0 0 7px;text-decoration:none; text-shadow:1px 1px 0px #a34800;}
+#menu li a span{display:block;float:left;height:49px;color:#fff;line-height:49px;padding:0 18px 0 18px;}
+#menu li a:hover{display:block;float:left;background:url(http://50.17.229.193:8080/TangoTab/images/nav_h_l.png) no-repeat left;height:49px;color:#fff; text-shadow:1px 1px 0px #353535; cursor:pointer;}
+#menu li a:hover span{display:block;float:left;background:url(http://50.17.229.193:8080/TangoTab/images/nav_h_r.png) no-repeat right;color:#fff; cursor:pointer;}
+#menu li a.current{display:block;float:left;height:49px;color:#fff;font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif;background:url(http://50.17.229.193:8080/TangoTab/images/nav_h_l.png) no-repeat left;line-height:49px;padding:0 0 0 7px;text-decoration:none;color:#fff; text-shadow:1px 1px 0px #353535; cursor:pointer;}
+#menu li a.current span{display:block;float:left;background:url(http://50.17.229.193:8080/TangoTab/images/nav_h_r.png) no-repeat right;height:49px;color:#fff;line-height:49px;padding:0 18px 0 18px;cursor:pointer;
+}
+.nav_divider{ float:left; width:2px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_divider.gif) left top no-repeat; height:48px; margin:0px 5px; margin-top:-1px}
+/*Navigation end here*/
+
+
+.content{ float:left; width:100%; padding:0px;}
+.form_green{ float:left; width:923px; padding:0px; background:#7d9b17; border: 2px solid #fff; margin-top:0px; padding:26px 20px; border-top:0px solid #fff; height:88px;}
+.form_green h1{ margin:0px; padding:0px; font:bold 25px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; text-shadow:1px 1px 0px #6f9000; margin-bottom:5px;}
+.form_green h1 span{ margin:0px; padding:0px; font:normal 14px "Century Gothic", Arial, Helvetica, sans-serif; color:#e5ebd1; margin-left:5px;}
+.form_green h1 span a{ margin:0px; padding:0px; font:normal 14px "Century Gothic", Arial, Helvetica, sans-serif; color:#e5ebd1; }
+.form_green h1 span a:hover{ margin:0px; padding:0px; font:normal 14px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; }
+.form_green input{  background:#ff; border:1px solid #425500; width:415px; padding:6px 5px; margin-right:15px;}
+.form_green select{background:#ff; border:1px solid #425500; width:221px; padding:5px 5px; margin-right:15px;}
+.form_green .input_btn{ width:221px; height:68px; background: url(http://50.17.229.193:8080/TangoTab/images/sign_up-tab.png) no-repeat; border:none; cursor:pointer;font:bold 22px "Century Gothic", Arial, Helvetica, sans-serif;color:#f38b0e;text-align:center;}
+
+
+.searchdetail_input{
+	background:#ff;
+	border:1px solid #425500;
+	width:100px;
+	margin-right:5px;
+	padding-top: 6px;
+	padding-right: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+}
+.o_bg{
+	float:left;
+	width:952px;
+	background:url(http://50.17.229.193:8080/TangoTab/images/orange_bg-down.png) left top no-repeat;
+	height:39px;
+	color:#fff;
+	padding-top:3px;
+	padding-left:15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+.o_bg span{font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000;}
+.o_bg span a{font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000;padding-left:10px;}
+.o_bg span a:hover{font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff;padding-left:10px;}
+.slides_start{
+	float:left;
+	width:967px;
+	padding:0px;
+	margin-top:5px;
+	height: 220px;
+}
+
+
+/*Slider css start from here*/
+#slider {width: 967px;margin: 0 auto;position: relative; height:54px; background:url(http://50.17.229.193:8080/TangoTab/images/blue_nav.png) left top no-repeat; line-height:54px;}
+.scroll {height: 330px;width: 967px;overflow: auto;overflow-x: hidden;position: relative;clear: left;background: #FFFFFF url(images/content_pane-gradient.gif) repeat-x scroll left bottom; }
+.scrollContainer div.panel {padding: 0px;height: 308px;width: 945px; border-top:11px solid #313131; border-bottom:11px solid #313131; border-left:11px solid #313131; border-right:11px solid #313131;}
+#shade {background: #EDEDEC url(images/shade.jpg) no-repeat 0 0;height: 50px;}
+ul.navigation {list-style: none;margin: 0;padding: 0;padding-bottom: 0px;}
+ul.navigation li {display: inline;margin-right: 10px;}
+ul.navigation a {padding: 6px 37px 6px 37px;color: #000;text-decoration: none;display: inline; font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; text-align:center; }
+ul.navigation a:hover {background:url(http://50.17.229.193:8080/TangoTab/images/blue_hover.gif) left top no-repeat; font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; }
+ul.navigation a.selected {background:url(http://50.17.229.193:8080/TangoTab/images/blue_hover.gif) left top no-repeat; font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; }
+ul.navigation a:focus {outline: none;}
+.scrollButtons {position: absolute;top: 185px;cursor: pointer;}
+.scrollButtons.left {left: -0px;z-index:15;}
+.scrollButtons.right {right: -0px; z-index:15;}
+.hide {display: none;}
+
+/*Slider content css start from here*/
+.scrollContainer div.first-sl { float:left; width:100%; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/content_img-1.jpg) left top no-repeat; height:308px;}
+.scrollContainer div.first-sl h1{ margin:0px; padding:0px;  margin-right:25px; font:bold 22px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; margin-top:20px; margin-left:423px;}
+.scrollContainer div.first-sl h1 span{ margin:0px; padding:0px; font:bold 40px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; }
+.scrollContainer div.first-sl p{ margin:0px; padding:0px; font:normal 12px Arial, Helvetica, sans-serif; color:#fff; margin-top:10px;margin-left:423px; margin-right:25px; text-shadow:1px 1px 0px #000; }
+.slide_bottom{ float:left; width:967px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/slide_bottom_blue.gif) left top no-repeat; height:20px; position:relative; top:328px;}
+.slide_bottom{ float:left; width:967px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/slide_bottom_blue.gif) left top no-repeat; height:20px; position:relative; _top:0px;}
+/*Slider css end from here*/
+
+.three_boxes{ position:relative; width:100%; margin-top:20px; _margin-top:12px; top:325px; margin-bottom:15px; clear:both;}
+.three_boxes{_float:left;_width:100%;_top:0px;  }
+.box_shadow{ float:left; width:307px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/box_shadow.png) left top no-repeat; height:121px; margin-left:10px;_margin-left:8px; padding:5px 4px 5px 5px;}
+.box_shadowr{ float:right; width:307px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/box_shadow.png) left top no-repeat; height:121px; padding:5px 4px 5px 5px; }
+.featured_business{
+	float:left;
+	width:306px;
+	padding:0px;
+	height:123px;
+	background-image: url(http://50.17.229.193:8080/TangoTab/images/publishbusiness.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.featured_business h2{ margin:0px; padding:0px; font:bold 20px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-shadow:1px 1px 0px #e2e2e2;  margin-left:91px; margin-top:15px; }
+.featured_business h3{ margin:0px; padding:0px; font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; margin-left:91px; margin-top:10px; }
+.featured_business p{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#1f8a9f; margin-left:91px; margin-top:10px; }
+.featured_business p a{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#1f8a9f;  }
+.featured_business p a:hover{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#000;  }
+
+.getone_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.cities{ float:left; width:306px; padding:0px; background: url(http://50.17.229.193:8080/TangoTab/images/building.gif) left top no-repeat; height:123px;}
+.cities h2{ margin:0px; padding:0px; font:bold 20px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-shadow:1px 1px 0px #e2e2e2;  margin-left:110px; margin-top:15px; }
+.cities h3{ margin:0px; padding:0px; font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; margin-left:110px; margin-top:10px; }
+.cities p{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#1f8a9f; margin-left:110px; margin-top:10px; }
+.cities p a{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#1f8a9f;  }
+.cities p a:hover{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#000;  }
+#footer{ float:left; width:937px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/footer.png) left top no-repeat; height:30px; position:relative; top:340px; _ top:0px; text-align:center; padding:40px 15px; color:#fff;}
+.footer_in{ float:left; width:100%; padding:0px; font:normal 12px Arial, Helvetica, sans-serif; color:#fff;}
+.footer_in a{ padding:0px 5px; font:normal 12px Arial, Helvetica, sans-serif; color:#fff; text-decoration:none;}
+.footer_in a:hover{ padding:0px 5px; font:normal 12px Arial, Helvetica, sans-serif; color:#fff; text-decoration:underline;}
+
+
+/*In sight pages css*/
+.nav_l-in{ float:left; width:12px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_l-in.png) left top no-repeat; height:61px; display:block;} 
+.nav_r-in{ float:left; width:12px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_r-in.png) left top no-repeat; height:61px; display:block;}
+.nav_m-in{ float:left; width:943px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/nav_m-in.png) left top repeat-x; height:50px; display:block; padding-top:12px;}
+.insight-content{
+	float:left;
+	width:100%;
+	padding:0px;
+	margin-top: 5px;
+}
+.left_content{ float:left; width:645px;}
+.td_bg {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	vertical-align: top;
+	text-align: center;
+}
+
+.g_box{ float:left; width:100%; padding:0px;}
+.g_top{ float:left; width:100%; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/g-top.png) left top no-repeat; height:9px;}
+
+.g_bottom{
+float:left;
+width:100%;
+background: url(http://50.17.229.193:8080/TangoTab/images/g-bottom.png) left top no-repeat;
+height:50px;
+font-family: verdana;
+font-size: 12px;
+font-weight: bold;
+color: #7d9b17;
+text-decoration: none;
+padding-top: 30px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 55px;
+}
+
+.g_bottom_new{
+	float:left;
+	width:100%;
+	padding:0px;
+	height:25px;
+	background-image: url(http://50.17.229.193:8080/TangoTab/images/boxbuttom.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.g_mid{ float:left; width:615px; padding:15px; background:#7d9b17; padding-top:8px; padding-bottom:0px; font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff;}
+.g_mid h1{ margin:0px; padding:0px; font:bold 22px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; background:url(http://50.17.229.193:8080/TangoTab/images/gr_divider.gif) left bottom repeat-x; padding-bottom:10px; margin-bottom:15px;}
+.g_mid input{ background:#ff; border:1px solid #425500; width:190px; padding:6px 5px;  font:normal 12px Arial, Helvetica, sans-serif;}
+.g_mid select{
+	background:#ff;
+	border:1px solid #425500;
+	width:150px;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	padding: 5px;
+}
+.or_image{ float:left; width:100%; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/or_image.png) left top no-repeat; height:25px; margin-top:10px; margin-bottom:10px;}
+.g_mid .gsubmit_btn{ width:95px; height:41px; background: url(http://50.17.229.193:8080/TangoTab/images/g_submit-b.gif) no-repeat; border:none; cursor:pointer;font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif;color:#fff;text-align:center; border:0px; margin-left:60px; _margin-left:0px; text-shadow:1px 1px 0px #8d3e00;}
+.display{ float:left; width:100%; padding:0px; margin-top:0px;}
+.pro_b_heading{ float:left; width:100%; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/in_page-heading.png) left top no-repeat; height:41px;}
+.pro_b_heading h2{ margin:0px; padding:0px; font:bold 20px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; padding:10px 20px;}
+.pro_white{
+	float:left;
+	width:648px;
+	background:#fff;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+.strip_one{ float:left; width:595px; padding:0px; background:#fcfcfc url(http://50.17.229.193:8080/TangoTab/images/strip_1.gif) left bottom repeat-x; padding:15px 15px;}
+.strip_two{ float:left; width:595px; padding:0px; background:#ffffff url(http://50.17.229.193:8080/TangoTab/images/strip_2.gif) left bottom repeat-x; padding:15px 15px;}
+.image_border{ float:left; width:75px; height:75px; background:url(http://50.17.229.193:8080/TangoTab/images/image_border.png) right bottom no-repeat; overflow:hidden; margin-right:15px;}
+.dec_text{
+	color:#7d9b17;
+	float:left;
+	width:395px;
+	padding:0px;
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+.dec_text a{
+	color:#7d9b17;
+	text-decoration:none;
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+.dec_text a:hover{
+	color:#dec_text;
+	text-decoration:underline;
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+.dec_text span{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; }
+.dec_text span a{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; text-decoration:none;}
+.dec_text span a:hover{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.ratings{ float:right; width:100px; padding:0px; font:normal 11px Arial, Helvetica, sans-serif; text-align:right;}
+.mid_consumer {
+	float: left;
+	width: 760px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.mid_right {
+	float: left;
+	width: 185px;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-left: 10px;
+}
+
+.hotels_view{ float:left; width:100%; padding:0px; margin-bottom:10px;}
+.meal_text{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17; float:left; width:158px; padding:0px;}
+.meal_text a{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17; text-decoration:none;}
+.meal_text a:hover{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.meal_text span{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; }
+.meal_text span a{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; text-decoration:none;}
+.meal_text span a:hover{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.image_borderbig{ float:left; width:95px; height:67px; background:url(http://50.17.229.193:8080/TangoTab/images/frame_border-1.png) right bottom no-repeat; margin-right:10px;}
+.table_rev{ float:left; width:100%; padding:0px; margin-bottom:10px; border-bottom:1px solid #e5e5e5;}
+.review_text{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17;  padding:0px;}
+.review_text a{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17; text-decoration:none;}
+.review_text a:hover{ font:bold 13px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.review_text span{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; }
+.review_text span a{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#000; text-decoration:none;}
+.review_text span a:hover{ font:normal 12px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+
+
+
+
+.right_content{ float:right; width:297px;}
+.wel_table_box{ float:left; width:100%; padding:0px; margin-bottom:20px;}
+.r_top{ float:left; width:297px; background:url(http://50.17.229.193:8080/TangoTab/images/r_to-r.png) left top no-repeat; height:11px;}
+.r_mid{ float:left; width:273px; border-left:2px solid #61b9ca; border-right:2px solid #61b9ca; background:#f7f7f7 url(http://50.17.229.193:8080/TangoTab/images/r_mid_r.gif) left bottom repeat-y; padding:0px 10px}
+.r_mid h1{ margin:0px; padding:0px; font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; padding-bottom:10px; border-bottom:1px solid #e5e5e5;}
+.r_mid h1 span{ margin:0px; padding:0px; font:italic 12px Arial, Helvetica, sans-serif; color:#868686; padding-bottom:10px; }
+.r_mid img{ margin:0px; padding:0px; margin-bottom:11px;}
+.r_mid p{ margin:0px; padding:0px; font:bold 12px Arial, Helvetica, sans-serif; color:#000; padding-bottom:10px;}
+.r_mid p a{ margin:0px; padding:0px; font:bold 11px Arial, Helvetica, sans-serif; color:#7d9b17;}
+.r_mid p a:hover{ margin:0px; padding:0px; font:bold 11px Arial, Helvetica, sans-serif; color:#e46c0e; }
+.r_mid .signone_btn{ width:215px; height:34px; background: url(http://50.17.229.193:8080/TangoTab/images/sign_up-inner.png) no-repeat; border:none; cursor:pointer;font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif;color:#fff;text-align:center; margin-left:29px;text-shadow:1px 1px 0px #8d3e00;}
+.r_bottom{ float:left; width:297px; padding:0px; background: url(http://50.17.229.193:8080/TangoTab/images/r_bot-r-small.png) left top no-repeat; height:11px;}
+.r_bottom_one{ float:left; width:297px; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/r_bot-r.png) left top no-repeat; height:50px;}
+.like_scroll{ float:left; width:100%; padding:0px; margin-top:10px;}
+#slide_content-in {width:273px;padding: 0 0 0px 0;margin: 0 auto;height:253px; padding-bottom:0px;}
+#slide_content-ino {width:273px;padding: 0 0 0px 0;margin: 0 auto;height:253px; }
+.search_big_box{ float:left; width:100%; padding:0px; margin-bottom:20px;}
+.search_top{ float:left; width:100%; padding:0px; background:url(http://50.17.229.193:8080/TangoTab/images/search_top.png) left top no-repeat; height:11px;}
+.search_mid{ float:left; width:937px; padding:8px 15px; background:#7d9b17; padding-bottom:0px;}
+.search_mid h1{ margin:0px; padding:0px; font:bold 22px "Century Gothic", Arial, Helvetica, sans-serif; color:#fff; background:url(http://50.17.229.193:8080/TangoTab/images/gr_divider.gif) left bottom repeat-x; padding-bottom:10px; margin-bottom:15px;}
+.search_mid input{ background:#ff; border:1px solid #425500; width:420px; padding:6px 5px;  font:normal 12px Arial, Helvetica, sans-serif; margin-right:15px;}
+.search_mid select{ background:#ff; border:1px solid #425500; width:235px; padding:5px 5px; font:normal 12px Arial, Helvetica, sans-serif;  margin-right:17px;}
+.search_mid .search_btn{ float:right; width:95px; height:32px; background: url(http://50.17.229.193:8080/TangoTab/images/search_tab.png) no-repeat; border:none; cursor:pointer;font:bold 18px "Century Gothic", Arial, Helvetica, sans-serif;color:#fff;text-align:center; border:0px; margin-left:150px; text-shadow:1px 1px 0px #8d3e00;}
+.search_bottom{ float:left; width:937px; padding:8px 15px; background:url(http://50.17.229.193:8080/TangoTab/images/search_b.png) left top no-repeat; height:18px;}
+.sort_box{ float:left; width:100%; padding:0px; margin-bottom:15px; font:bold 12px Arial, Helvetica, sans-serif; color:#000; border-bottom:1px solid #d7cdc0; padding-bottom:10px;}
+.search-dis_text{ font:bold 15px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17; float:left; width:355px; padding:0px; margin-left:8px;}
+.search-dis_text a{ font:bold 15px "Century Gothic", Arial, Helvetica, sans-serif; color:#7d9b17; text-decoration:none;}
+.search-dis_text a:hover{ font:bold 15px "Century Gothic", Arial, Helvetica, sans-serif; color:#e46c0e; text-decoration:underline;}
+.search_main_left{float:left; width:105px; font:normal 10px "Tahoma",Arial, Helvetica, sans-serif; color:#898989;}
+.write_text{ font:bold 11px Arial, Helvetica, sans-serif; color:#000; padding:5px 0px;}
+.write_text a{ font:bold 11px Arial, Helvetica, sans-serif; color:#e46c0e; padding:0px 5px; text-decoration:none;}
+.write_text a:hover{ font:bold 11px Arial, Helvetica, sans-serif; color:#898989; padding:0px 5px; text-decoration:none;}
+.rates{ float:right; width:120px; padding:0px; font:normal 11px Arial, Helvetica, sans-serif; text-align:right; color:#898989; }
+.rates h1{ margin:0px; padding:0px; font:bold 24px "Century Gothic", Arial, Helvetica, sans-serif; color:#ea780e; line-height:24px;}
+.rates p{ margin:0px; padding:0px; font:normal 11px Arial, Helvetica, sans-serif; text-align:right; color:#898989; padding-bottom:5px;}
+#select_hot a{
+	float:right;
+	height: 21px;
+	width:104px;
+	background: url(http://50.17.229.193:8080/TangoTab/images/select_hotel-tab.png) no-repeat left top;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	padding-top: 4px;
+}
+
+#footer-inner{
+	float:left;
+	width:937px;
+	background:url(http://50.17.229.193:8080/TangoTab/images/footer.png) left top no-repeat;
+	height:30px;
+	text-align:center;
+	color:#fff;
+	padding-top: 35px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+	padding-left: 15px;
+}
+
+div#scrollbar { 
+    display:none;
+	width:273px
+    }
+
+/* below in external file */
+div#wn	{ 
+    position:relative; 
+    width:980px; height:52px; 
+    overflow:hidden;	
+	}
+div#scrollbar { 
+    position:relative; 
+   width:273px; height:11px;
+    display:block; /* display:none initially */
+    font-size:1px;  /* so no gap or misplacement due to image vertical alignment */
+  }
+
+div#track { 
+    position:absolute; left:12px; top:0;
+    width:273px; height:11px; 
+    background: #e48005;
+  }
+div#dragBar {
+    position:absolute; left:1px; top:1px;
+    width:20px; height:9px; 
+    background-color:#000;
+  }  
+div#left { position:absolute; left:0; top:0; }  
+div#right { position:absolute; right:0; top:0;  }
+
+/* for safari, to prevent selection problem  */
+div#scrollbar, div#track, div#dragBar, div#left, div#right {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+	
+}
+
+/* so no gap or misplacement due to image vertical alignment
+font-size:1px in scrollbar has same effect (less likely to be removed, resulting in support issues) */
+div#scrollbar img {
+    display:block; 
+    } 
+
+.information, .information p {
+	padding:0;
+	margin:0;
+	line-height:24px;
+	font:Arial, Helvetica, sans-serif;
+}
+
+.jqueryslidemenu{
+	font: bold 12px Verdana;
+	width: 100%;
+	background-image: url(http://50.17.229.193:8080/TangoTab/images/r_bot-mid.png);
+	background-repeat: repeat-x;
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+	display: block; /*background of tabs (default state)*/
+	color: white;
+	padding: 8px 10px;
+	border-right: 1px solid #61b9ca;
+	color: #55afc2;
+	text-decoration: none;
+	background-image: url(http://50.17.229.193:8080/TangoTab/images/r_bot-mid.png);
+	background-repeat: repeat-x;
+	background-color: #61b9ca;
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+color: white;
+}
+
+.jqueryslidemenu ul li a:hover{
+	background: #55afc2; /*tab link background during hover state*/
+	color: white;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+font: normal 13px Verdana;
+width: 160px; /*width of sub menus*/
+padding: 5px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid gray;
+}
+
+.jqueryslidemenuz ul li ul li a:hover{ /*sub menus hover style*/
+	background: #eff9ff;
+	color: #ce713e;
+}
+.but_img{
+	background-color: #efa12f;
+	height: 30px;
+	width: 150px;
+	border: 1px solid #FFFFFF;
+	font-family: verdana;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+.but_imgmax{
+	background-color: #efa12f;
+	height: 30px;
+	width: 150px;
+	border: 1px solid #FFFFFF;
+	font-family: verdana;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+#Pay_but {
+	float:right;
+	height: 21px;
+	width:104px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	padding-top: 4px;
+	background-color: #fbb34b;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */

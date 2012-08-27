@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dwr PUBLIC
+    "-//GetAhead Limited//DTD Direct Web Remoting 2.0//EN"
+    "http://getahead.org/dwr/dwr20.dtd">
+
+<dwr>
+   <allow>
+   	<convert converter="bean" match="com.tangotab.TO.CountryTO" javascript="Contry"/>
+   	<convert converter="bean" match="com.tangotab.TO.StateTO" javascript="State"/>
+   	<convert converter="bean" match="com.tangotab.TO.CityTO" javascript="City"/>
+   	<convert converter="bean" match="com.tangotab.TO.DealTO" javascript="deals"/>
+   	<convert converter="bean" match="com.tangotab.TO.DealDescriptionTO" javascript="dealDesc"/>
+   	<convert converter="bean" match="com.tangotab.TO.LocationTO" javascript="locationto"/>
+
+    <create creator="new" javascript="Countries">
+     	 <param name="class" value="com.tangotab.util.DWRUtil"/>
+    </create>
+    <create creator="new" javascript="deal">
+     	 <param name="class" value="com.tangotab.businessImpl.UserBOImpl"/>
+    </create>
+    <create creator="new" javascript="Admin">
+     	 <param name="class" value="com.tangotab.businessImpl.AdminBOImpl"/>
+    </create>
+   <create creator="new" javascript="fingerPrint">
+     	 <param name="class" value="com.tangotab.util.PaymentRequestUtility"/>
+    </create>
+    <create creator="new" javascript="DealDescr">
+     	 <param name="class" value="com.tangotab.businessImpl.DealBOImpl"/>
+    </create>
+     <create creator="new" javascript="hashcode">
+     	 <param name="class" value="com.tangotab.util.GenerateHashData"/>
+    </create>
+  </allow>
+</dwr>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/struts-logic.tld
+END
+displaytag.tld
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/displaytag.tld
+END
+sslext.tld
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/sslext.tld
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/struts-config.xml
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/struts-nested.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/struts-html.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/struts-bean.tld
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/validation.xml
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/dwr.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/validator-rules.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/web/WEB-INF/web.xml
+END

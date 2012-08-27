@@ -1,0 +1,62 @@
+.solidblockmenu{
+	padding: 0;
+	float: left;
+	font: bold 13px Arial;
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 0px;
+	background-image: url(../images/blockdefault.gif);
+	background-repeat: repeat-x;
+	background-position: center center;
+	border-top-width: 1px;
+	border-right-width: 0;
+	border-bottom-width: 0px;
+	border-left-width: 0;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #2c8ca5;
+	border-right-color: #2c8ca5;
+	border-bottom-color: #2c8ca5;
+	border-left-color: #2c8ca5;
+	height: 36px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.solidblockmenu li{
+display: inline;
+}
+
+.solidblockmenu li a{
+float: left;
+color: white;
+padding: 9px 11px;
+text-decoration: none;
+border-right: 1px solid white;
+}
+
+.solidblockmenu li a:visited{
+color: white;
+}
+
+.solidblockmenu li a:hover, .solidblockmenu li .current{
+	color: white;
+	background-color: transparent;
+	background-image: url(../images/blockactive.gif);
+	background-repeat: repeat-x;
+	background-position: center center;
+}
+.blue_border {
+	/*border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #2c8ca5;
+	border-bottom-color: #2c8ca5;
+	border-left-color: #2c8ca5;*/
+}

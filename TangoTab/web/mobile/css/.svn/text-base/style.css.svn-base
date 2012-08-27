@@ -1,0 +1,113 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: "Dakota";
+    font-style: normal;
+    font-weight: normal;
+    src: url("dakota-regular.eot?#iefix") format("embedded-opentype"), url("dakota-regular.woff") format("woff"), url("dakota-regular.ttf") format("truetype"), url("dakota-regular.svg#dakota-regular") format("svg");
+}
+.mainbox {
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 320px;
+}
+.text1 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.text2 {
+    color: #FF6600;
+    font-family: calibri;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+.padding1 {
+    padding-top: 10px;
+}
+.text_box {
+    border: 1px solid #999999;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 18px;
+    height: auto;
+    margin: 0;
+    padding: 4px;
+    width: 85%;
+}
+.text3 {
+    color: #000000;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4 {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4 a {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+}
+.text4:hover {
+    color: #FF9838;
+    font-family: calibri;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline;
+}
+.text5 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: bold;
+    padding: 15px 0;
+    text-decoration: none;
+}
+.text6 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.text7 {
+    color: #FF9838;
+    font-family: calibri;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.text8 {
+    color: #000000;
+    font-family: Dakota;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+/*----------------*/
+.landing_page_bg{background:url(../images/tangotab_landing_bg.png) no-repeat;}
+.landing_page_bg h1{font-size:18px;   font-family: calibri; color:#646464; line-height:17px; text-shadow:-3px 0px 2px #fff; -moz-text-shadow:-3px 0px 2px #fff; -webkit-text-shadow:-3px 0px 2px #fff;}
+.landing_page_bg h1 span{ color:#f57e20;}
+
+.landing_page_bg h2{font-size:14px;   font-family: calibri; color:#646464; line-height:17px; font-style:italic; margin:0px; padding:0px; text-shadow:-3px 0px 2px #fff; -moz-text-shadow:-3px 0px 2px #fff; -webkit-text-shadow:-3px 0px 2px #fff;}
+.landing_page_bg h2 span{ color:#f57e20;}
+.landing_search_bg{ background:#f57e20; height:42px;}
+.land_search_input{border:none; background:url(../images/search_bg.png) no-repeat; height:30px; width:185px; padding:0px 10px 0 28px; color:#666666;}

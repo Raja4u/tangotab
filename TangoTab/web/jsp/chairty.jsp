@@ -1,0 +1,1 @@
+ <% response.sendRedirect("charity.jsp");%>

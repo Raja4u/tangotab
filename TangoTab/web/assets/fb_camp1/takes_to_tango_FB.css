@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* What does it take to Tango Video Contest*/
+
+
+#container { 
+	width: 520px;
+	font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#393939;
+}
+.nospace { display: block; }
+.image { margin: 0 auto; }
+
+
+.maina_title {
+	font-size:16px;
+	color:#769f25;
+	font-weight:bold;}
+	
+	
+.blue_frame {padding:10px;
+border:solid 1px #009ebc;}
+
+.for_left {padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+width:150px;
+	font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#393939;}
+
+.for_right {border:#009ebc solid 1px;
+width:250px;
+	font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#393939;}
+	
+.text {font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#393939;}
+	
+.for_left_missing {padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+width:150px;
+	font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#eb0d0d;}
+
+.for_right_missing {border:#eb0d0d solid 2px;
+width:250px;
+	font-size:11px; 
+	font-family:lucida grande,tahoma,verdana,arial,sans-serif;
+	color:#393939;}

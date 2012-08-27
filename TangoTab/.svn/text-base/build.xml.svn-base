@@ -1,0 +1,128 @@
+<project name="SslxClientProxy" default="deploy">
+	<!-- Set the properties -->
+	<property name="sourceDir" value="src" />
+	<property name="webDir" value="web" />
+	<property name="distDir" value="dist" />
+	<property name="tomcat.local" value="/opt/bitnami/apache-tomcat" />
+
+	<!-- Create build,build/jar directories -->
+	<target name="createDirs">
+		<delete dir="${distDir}" />
+		<mkdir dir="${distDir}" />
+	</target>
+
+	<!-- Compile -->
+	<target name="compile" depends="createDirs">
+		<copy todir="${distDir}">
+			<fileset dir="${webDir}" includes="**,*" />
+		</copy>
+		<delete dir="${distDir}/WEB-INF/classes" />
+		<mkdir dir="${distDir}/WEB-INF/classes" />
+		<copy todir="${distDir}/WEB-INF/classes">
+			<fileset dir="${sourceDir}" includes="ApplicationResources.properties" />
+			<fileset dir="${sourceDir}" includes="log4j.properties" />
+			<fileset dir="${sourceDir}" includes="hibernate.cfg.xml" />
+			<fileset dir="${sourceDir}" includes="tangotab.properties" />
+		</copy>
+		<javac encoding="8859_1" srcdir="${sourceDir}" destdir="${distDir}/WEB-INF/classes" debug="on" debuglevel="lines,source">
+			<classpath>
+				<pathelement path="${java.class.path}" />
+				<pathelement location="web/WEB-INF/lib/authorize.jar" />
+				<pathelement location="web/WEB-INF/lib/json-lib-2.2.2-jdk15.jar" />
+				<pathelement location="web/WEB-INF/lib/httpcore-4.0.1.jar" />
+				<pathelement location="web/WEB-INF/lib/httpclient-4.0.1.jar" />
+				<pathelement location="web/WEB-INF/lib/Auth.jar" />
+				<pathelement location="web/WEB-INF/lib/anet-java-sdk-1.1.0.jar" />
+				<pathelement location="web/WEB-INF/lib/adv.jar" />
+				<pathelement location="web/WEB-INF/lib/ant-1.6.5.jar" />
+				<pathelement location="web/WEB-INF/lib/ant-antlr-1.6.5.jar" />
+				<pathelement location="web/WEB-INF/lib/ant-junit-1.6.5.jar" />
+				<pathelement location="web/WEB-INF/lib/ant-launcher-1.6.5.jar" />
+				<pathelement location="web/WEB-INF/lib/antlr.jar" />
+				<pathelement location="web/WEB-INF/lib/antlr-2.7.6.jar" />
+				<pathelement location="web/WEB-INF/lib/antlr-2.7.6rc1.jar" />
+				<pathelement location="web/WEB-INF/lib/ant-swing-1.6.5.jar" />
+				<pathelement location="web/WEB-INF/lib/asm.jar" />
+				<pathelement location="web/WEB-INF/lib/asm-attrs.jar" />
+				<pathelement location="web/WEB-INF/lib/c3p0-0.9.0.jar" />
+				<pathelement location="web/WEB-INF/lib/cglib-2.1.3.jar" />
+				<pathelement location="web/WEB-INF/lib/cleanimports.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-beanutils.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-collections-3.1.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-digester.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-fileupload.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-fileupload-1.0.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-logging.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-logging-1.0.4.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-validator.jar" />
+				<pathelement location="web/WEB-INF/lib/concurrent-1.3.2.jar" />
+				<pathelement location="web/WEB-INF/lib/connector.jar" />
+				<pathelement location="web/WEB-INF/lib/dom4j-1.6.1.jar" />
+				<pathelement location="web/WEB-INF/lib/dsn.jar" />
+				<pathelement location="web/WEB-INF/lib/ehcache-1.1.jar" />
+				<pathelement location="web/WEB-INF/lib/hibernate3.jar" />
+				<pathelement location="web/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+				<pathelement location="web/WEB-INF/lib/imap.jar" />
+				<pathelement location="web/WEB-INF/lib/jaas.jar" />
+				<pathelement location="web/WEB-INF/lib/jacc-1_0-fr.jar" />
+				<pathelement location="web/WEB-INF/lib/jakarta-oro.jar" />
+				<pathelement location="web/WEB-INF/lib/javassist-3.12.0.GA.jar" />
+				<pathelement location="web/WEB-INF/lib/jaxen-1.1-beta-7.jar" />
+				<pathelement location="web/WEB-INF/lib/jboss-cache.jar" />
+				<pathelement location="web/WEB-INF/lib/jboss-common.jar" />
+				<pathelement location="web/WEB-INF/lib/jboss-jmx.jar" />
+				<pathelement location="web/WEB-INF/lib/jboss-system.jar" />
+				<pathelement location="web/WEB-INF/lib/jdbc2_0-stdext.jar" />
+				<pathelement location="web/WEB-INF/lib/jgroups-2.2.8.jar" />
+				<pathelement location="web/WEB-INF/lib/jta.jar" />
+				<pathelement location="web/WEB-INF/lib/jta-1.1.jar" />
+				<pathelement location="web/WEB-INF/lib/junit-3.8.1.jar" />
+				<pathelement location="web/WEB-INF/lib/log4j-1.2.16.jar" />
+				<pathelement location="web/WEB-INF/lib/mailapi.jar" />
+				<pathelement location="web/WEB-INF/lib/mysql-connector-java-5.1.14-bin.jar" />
+				<pathelement location="web/WEB-INF/lib/oscache-2.1.jar" />
+				<pathelement location="web/WEB-INF/lib/pop3.jar" />
+				<pathelement location="web/WEB-INF/lib/proxool-0.8.3.jar" />
+				<pathelement location="web/WEB-INF/lib/slf4j-api-1.6.1.jar" />
+				<pathelement location="web/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" />
+				<pathelement location="web/WEB-INF/lib/smtp.jar" />
+				<pathelement location="web/WEB-INF/lib/struts.jar" />
+				<pathelement location="web/WEB-INF/lib/swarmcache-1.0rc2.jar" />
+				<pathelement location="web/WEB-INF/lib/syndiag2.jar" />
+				<pathelement location="web/WEB-INF/lib/versioncheck.jar" />
+				<pathelement location="web/WEB-INF/lib/xerces-2.6.2.jar" />
+				<pathelement location="web/WEB-INF/lib/xml-apis.jar" />
+				<pathelement location="web/WEB-INF/lib/servlet-api.jar" />
+				<pathelement location="web/WEB-INF/lib/commons-lang.jar"/>
+				<pathelement location="web/WEB-INF/lib/displaytag-export-poi-1.2.jar"/>
+				<pathelement location="${tomcat.local}/lib/servlet-api.jar" />
+				<pathelement location="web/WEB-INF/lib/icu4j-3.4.4.jar" />
+							<pathelement location="web/WEB-INF/lib/jasypt-1.7.jar" />
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="copyHBMs" depends="compile">
+		<copy todir="${distDir}/WEB-INF/classes/com/tangotab/dao/pojo">
+			<fileset dir="${sourceDir}/com/tangotab/dao/pojo" includes="*.xml" />
+		</copy>
+	</target>
+
+	<target name="init" depends="copyHBMs">
+		<!-- Generate the manifest file -->
+		<manifest file="web/META-INF/MANIFEST.MF">
+			<attribute name="Created-By" value="TangoTab, Avea Design LLC." />
+			<attribute name="Class-Path" value="ant-1.6.5.jar ant-antlr-1.6.5.jar ant-junit-1.6.5.jar ant-launcher-1.6.5.jar antlr.jar antlr-2.7.6.jar antlr-2.7.6rc1.jar ant-swing-1.6.5.jar asm.jar asm-attrs.jar c3p0-0.9.0.jar cglib-2.1.3.jar cleanimports.jar commons-beanutils.jar commons-collections-3.1.jar commons-collections-3.2.1.jar commons-digester.jar commons-fileupload.jar commons-fileupload-1.0.jar commons-logging.jar commons-logging-1.0.4.jar commons-validator.jar concurrent-1.3.2.jar connector.jar dom4j-1.6.1.jar dsn.jar ehcache-1.1.jar hibernate3.jar hibernate-jpa-2.0-api-1.0.0.Final.jar imap.jar jaas.jar jacc-1_0-fr.jar jakarta-oro.jar javassist-3.12.0.GA.jar jaxen-1.1-beta-7.jar jboss-cache.jar jboss-common.jar jboss-jmx.jar jboss-system.jar jdbc2_0-stdext.jar jgroups-2.2.8.jar jta.jar jta-1.1.jar junit-3.8.1.jar log4j-1.2.16.jar mailapi.jar mysql-connector-java-5.1.14-bin.jar oscache-2.1.jar pop3.jar proxool-0.8.3.jar slf4j-api-1.6.1.jar slf4j-log4j12-1.6.1.jar smtp.jar struts.jar swarmcache-1.0rc2.jar syndiag2.jar versioncheck.jar xerces-2.6.2.jar xml-apis.jar displaytag-export-poi-1.2.jar commons-lang.jar ./" />
+		</manifest>
+	</target>
+
+	<target name="deploy" depends="init">
+		<delete dir="${tomcat.local}/work/Catalina/localhost/TangoTab" />
+	<!--	<delete dir="${tomcat.local}/webapps/TangoTab" />-->
+		<copy todir="${tomcat.local}/webapps/TangoTab">
+			<fileset dir="${distDir}" includes="**,*" />
+		</copy>
+		<delete dir="${distDir}"/>
+	</target>
+</project>

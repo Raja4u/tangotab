@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TangoTab"
+  id="myeclipse.1298302697593"
+  context-root="/TangoTab"
+  j2ee-spec="5.0"
+  archive="TangoTab.war">
+  <attributes>
+    <attribute name="webrootdir" value="/web" />
+  </attributes>
+</project-module>
+

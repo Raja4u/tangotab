@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao
+END
+AdminDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/AdminDAO.class
+END
+CommonDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/CommonDAO.class
+END
+ResaurantAdminDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/ResaurantAdminDAO.java
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/UserDAO.java
+END
+CommissionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/CommissionDAO.java
+END
+BillingMethodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/BillingMethodDAO.java
+END
+BillingTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/BillingTypeDAO.java
+END
+TransactionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/TransactionDAO.java
+END
+RestaurantDiscountDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/RestaurantDiscountDAO.class
+END
+AdminDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/AdminDAO.java
+END
+CommonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/CommonDAO.java
+END
+ConfigDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/ConfigDAO.class
+END
+DealDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/DealDAO.class
+END
+LocationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/LocationDAO.class
+END
+RestaurantDiscountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/RestaurantDiscountDAO.java
+END
+ResaurantAdminDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/ResaurantAdminDAO.class
+END
+UserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/UserDAO.class
+END
+CommissionDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/CommissionDAO.class
+END
+DealDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/DealDAO.java
+END
+ConfigDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/ConfigDAO.java
+END
+BillingMethodDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/BillingMethodDAO.class
+END
+LocationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/LocationDAO.java
+END
+TransactionDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/TransactionDAO.class
+END
+BaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/BaseDAO.java
+END

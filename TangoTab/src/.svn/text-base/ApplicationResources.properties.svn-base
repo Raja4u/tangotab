@@ -1,0 +1,198 @@
+# Resources for parameter 'com.yourcompany.struts.ApplicationResources'
+# Project TangoTabPhase1
+#Messeges for Exception Handling
+
+DB001 = Save Failed
+DB002 = Data deletion Failed
+DB003 =Data fetch Failed
+DB004 =Update Failed
+errors.autherized= Please Activate through your mail 
+EMAIL001 = Could not send the email. Please check email or contact administrator.
+errors.suspend={0}
+errors.invalidLogin ={0} is wrong
+msg.success={0}
+msg.failure = {0} is failed.
+errors.misc={0} failed.
+errors.emailexist={0}
+
+actionMessage.sessionTimedOut=Login Required
+
+result.noRecords={0}
+  <!----------Error  Properties----------->
+
+errors.integer=should  be Numeric Value.
+errors.invalid ={0} should contain valid data only.
+errors.required = {0} is required
+errors.minlength = {0} length can't  be less than {1}
+errors.maxlength = {0}  length  can't be greater than {1}
+errors.range ={0} is not selected.
+errors.float= should be Double
+errors.date={0} should be in MM/dd/yyyy format
+errors.double={0} should Be double.
+errors.email={0} is not valid format.
+errors.url={0} is not a valid website.
+errors.range2={0} should be a limit {1} to {2}.
+errors.pricerange={0} is should be a limit ${1} to  ${2}.
+errors.isrequired=Please check yes or no.
+errors.prefix=<font class="red_text" >
+ errors.suffix=</font>
+               <!-- Credit Discount Form properties -->
+            
+creditDiscountVO.businessName=Business Name
+creditDiscountVO.discount=Discount
+creditDiscountVO.refferedBy= Reffered By
+creditDiscountVO.fromDate=From Date
+creditDiscountVO.toDate=To Date
+creditDiscountVO.remarks=Remarks
+            
+     
+    <!-- billing Method -->
+BillingMethodForm.billingMethodName=Billing Method  
+
+<!-- billing Type -->
+BillingTypeForm.billingTypeName=Billing Type   
+
+<!-- cuisine Type -->
+CuisineTypeForm.cuisineTypeName=Cuisine Type      
+
+<!-- restaurant Type -->
+RestaurantTypeForm.restTypeName=Restaurant Type     
+
+<!-- dining style -->
+DiningStyleForm.diningStyleName=Dining Style        
+
+<!-- -------------- config validation-->
+
+
+
+config.minChargeAmt=  Minimum Charge Amount
+config.defaultDealCreditValue=One Credit
+config.defaultDiscountAmountOnAccount=Discount
+config.defaultSetupFee=Setup Fee
+config.discountFromDate=From date
+config.discountToDate=To Date
+config.customizedDealCredit=Credits for approving the customized deal
+config.creditUserDeal=Credits deducted when the User selects a deal
+    
+<!--consumer registration---->
+ userForm.confirstname =First Name
+  userForm.mfirstname =Administrator's first name
+userForm.mlastname =Administrator's last name
+userForm.firstname = Name
+ userForm.lastname = Last name
+ userForm.emailId = Email
+ userForm.zipCode = Zip Code
+ userForm.password =Password
+  userForm.cpassword =Confirm Password
+ 
+ restForm.question1=Question1
+  restForm.answer1=Answer1
+  restForm.question2=Question2
+    restForm.answer2=Answer2
+    
+  userForm.businessName = Business Name
+ userForm.mobilePhone =Mobile phone
+  userForm.phone =Phone
+ userForm.restTypeId = Business Type
+ userForm.billingMethodId = Billing Method
+ userForm.billingTypeId = Billing Type
+ userForm.noOfLocations =Number of Stores/Locations
+    userForm.mobilePhone.mask = Mobile phone not valid
+    userForm.homePhone = Home phone
+    userForm.address = Address1
+        userForm.address1 = Address2
+    regForm.emailId=Email
+userForm.preferCity=Preferred City 
+<!---- properties for Admin deal creation-------------->
+DealForm.dealTemplateName = Deal Name
+DealForm.dealTemplateDescription =  Description
+DealForm.dealTemplateRestrictions =Restriction
+DealForm.adminDealImage = Image
+  DealForm.weekdays = Days
+  DealForm.qty = Qty
+  DealForm.startDate = From
+  DealForm.dealEndDate = To    
+  DealForm.restLocationId = Location     
+DealForm.isRecurring= IsRecurring
+DealForm.Location=Location 
+
+ 
+<!-- login Form -->
+
+loginForm.userId=Email
+loginForm.pwd=Password
+
+<!-- Rest Locations -->
+locationForm.locationRestName=Location Business Name
+locationForm.address=Street Address
+locationForm.stateId=State
+locationForm.cityId=City
+locationForm.zipCode=Zip Code
+locationForm.description= Description
+locationForm.firstname= Deal Manager Name
+locationForm.emailId= Email
+locationForm.priceStartRate=Starting Price
+locationForm.priceEndRate=Ending Price
+locationForm.preferencesList=Cuisine Type
+locationForm.locationRestImgPath=Restaurant Image
+locationForm.mobilePhone=Mobile phone
+locationForm.countryId=Country
+locationForm.homePhone=Home Phone
+locationForm.locationHomePhone=Main Phone
+locationForm.fax=Fax
+locationForm.webSite=Website
+locationForm.diningStylePreferences=Dining Style
+locationForm.rating = Rating
+locationForm.preferCityId=Prefer City 
+
+<!----Reset Password ------>
+
+resetPasswordForm.password=Password
+resetPasswordForm.newPassword=New Password
+resetPasswordForm.confirmPassword=Retype New Password
+passwordsShouldBeSame=New Password and Confirmation Password must be the same.
+oldNewPasswordsCantBeSame=Current Password and New Password cannot be the same.
+CantSaveRecord=Cannot reset the password.
+InvalidRequest=Invalid request, please re-login.
+NotValidPassword=Current Password is not valid, please check again.
+InvalidEmail=No account found with that email address with TangoTab.
+InvalidEmail2=Please enter a valid email address.
+
+
+refferalForm.FriendEmailId = Email
+refferalForm.friendName =Name
+
+adminDealImageForm.adminDealImage=Pick Image
+dealRestrictionForm.restriction=Deal Restriction.
+dealDescriptionForm.description=Deal Description
+dealNameForm.name=Deal Name
+
+
+creditCardInfo.cardNumber=Credit card number
+creditCardInfo.cardName=Card name
+creditCardInfo.verificationCode=Verificationcode
+creditCardInfo.expiryMonth=Expiry Month
+creditCardInfo.expiryYear=Expiry Year
+creditCardInfo.firstName=First name
+creditCardInfo.lastName=Last name
+creditCardInfo.address1=Address1
+creditCardInfo.address2=Address2 
+creditCardInfo.city=City
+creditCardInfo.state=State
+creditCardInfo.zip=Zipcode
+creditCardInfo.country=Country
+creditCardInfo.email=Email
+creditCardInfo.phone=Phone
+creditCardInfo.fax=Fax
+
+contactForm.firstName=Name
+contactForm.emailId=Contact Email
+contactForm.typeOfEnquiry=Inquiry Type
+
+supportForm.emailId=Email
+suggestRestForm.businessName=Business Name
+
+dealNameForm.name=Deal Name
+dealDescriptionForm.description=Deal Description
+dealRestrictionForm.restriction=Deal Restriction
+

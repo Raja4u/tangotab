@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.tangotab.dao.pojo.HomeSignUp" table="home_signup">
+        <id name="homeId" type="java.lang.Integer">
+            <column name="home_id" />
+            <generator class="identity" />
+        </id>
+        <property name="emailId" type="java.lang.String" >
+            <column name="email_id" length="100" />
+        </property>
+ 
+        <property name="signupDate" type="java.sql.Timestamp">
+            <column name="signupDate"  />
+        </property>
+ 
+        <property name="preferCity" type="java.lang.String">
+            <column name="prefercity" length="100" />
+        </property>
+  
+    </class>
+</hibernate-mapping>
+

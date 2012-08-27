@@ -1,0 +1,1055 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo
+END
+Ambassador.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Ambassador.hbm.xml
+END
+DealTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealTemplate.java
+END
+CuisineType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CuisineType.java
+END
+HomeSignUp.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/HomeSignUp.class
+END
+SalesRepZipcodes.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepZipcodes.hbm.xml
+END
+RestaurantLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocation.class
+END
+AdminDealImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImage.class
+END
+SalesPersonDetail.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesPersonDetail.hbm.xml
+END
+BillingType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingType.hbm.xml
+END
+Support.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Support.java
+END
+HomeSignUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/HomeSignUp.java
+END
+RestaurantRating.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantRating.hbm.xml
+END
+SalesPersonDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesPersonDetail.java
+END
+Restaurantcc.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Restaurantcc.hbm.xml
+END
+Price.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Price.hbm.xml
+END
+Restaurant.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Restaurant.java
+END
+DealRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealRestriction.java
+END
+RestaurantPaymentProfile.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantPaymentProfile.hbm.xml
+END
+Support.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Support.hbm.xml
+END
+SalesMgrCities.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesMgrCities.hbm.xml
+END
+State.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/State.class
+END
+Events.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Events.java
+END
+BillingType.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingType.class
+END
+DiningStyle.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DiningStyle.class
+END
+StateTax.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/StateTax.hbm.xml
+END
+ConsumerEvent.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerEvent.hbm.xml
+END
+RestaurantTransaction.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantTransaction.class
+END
+SalesLocation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesLocation.hbm.xml
+END
+RestaurantDealHistory.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDealHistory.hbm.xml
+END
+RestaurantDiscount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDiscount.hbm.xml
+END
+Country.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Country.class
+END
+Events.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Events.hbm.xml
+END
+ConsumerPreferCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreferCity.java
+END
+RestaurantType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantType.java
+END
+CommissionRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CommissionRate.java
+END
+City.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/City.hbm.xml
+END
+SalesCommission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesCommission.hbm.xml
+END
+DealDescription.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealDescription.class
+END
+RestaurantTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantTransaction.java
+END
+SalesRepresentInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepresentInfo.class
+END
+RestaurantDiscount.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDiscount.java
+END
+ConsumerReservation.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReservation.class
+END
+ConsumerReferral.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReferral.hbm.xml
+END
+SalesMgrCities.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesMgrCities.class
+END
+AdminDealImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImages.java
+END
+BillingMethod.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingMethod.hbm.xml
+END
+SalesInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesInfo.class
+END
+Restaurant.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Restaurant.class
+END
+SalesMgrCities.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesMgrCities.java
+END
+RestaurantLocationPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocationPreference.java
+END
+CommissionRate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CommissionRate.hbm.xml
+END
+BillingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingMethod.java
+END
+ConfigPojo.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConfigPojo.class
+END
+ZipCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ZipCode.class
+END
+Role.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Role.hbm.xml
+END
+DealTemplate.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealTemplate.class
+END
+AmbReferences.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AmbReferences.hbm.xml
+END
+CuisineType.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CuisineType.class
+END
+RestaurantDinnigPreferences.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDinnigPreferences.class
+END
+Country.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Country.hbm.xml
+END
+AdminDealImages.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImages.hbm.xml
+END
+Config.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Config.hbm.xml
+END
+ConsumerPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreference.java
+END
+CharityDetails.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CharityDetails.hbm.xml
+END
+SalesRepresentInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepresentInfo.hbm.xml
+END
+AmbReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AmbReferences.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Role.java
+END
+ConsumerReferral.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReferral.class
+END
+SalesPersonDetail.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesPersonDetail.class
+END
+SalesInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesInfo.hbm.xml
+END
+DealEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealEvent.java
+END
+SalesZipCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesZipCode.hbm.xml
+END
+CharityDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CharityDetails.java
+END
+BillingCc.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingCc.hbm.xml
+END
+ConsumerPreferCity.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreferCity.class
+END
+ConsumerReservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReservation.java
+END
+ConsumerReferral.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReferral.java
+END
+PriceIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/PriceIndex.class
+END
+RestaurantCcProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantCcProfile.java
+END
+RestaurantRating.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantRating.class
+END
+DealEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealEvent.class
+END
+ZipCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ZipCode.java
+END
+ConfigPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConfigPojo.java
+END
+RestaurantDeal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDeal.hbm.xml
+END
+RestaurantCcProfile.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantCcProfile.class
+END
+State.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/State.hbm.xml
+END
+RestaurantLocationPreference.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocationPreference.class
+END
+UserValidationCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/UserValidationCode.class
+END
+BillingCc.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingCc.class
+END
+Landing.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Landing.java
+END
+RestDiningPreferences.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestDiningPreferences.hbm.xml
+END
+RestaurantType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantType.hbm.xml
+END
+StateTax.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/StateTax.class
+END
+ConsumerEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerEvent.class
+END
+RestaurantDiscount.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDiscount.class
+END
+BillingCc.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingCc.java
+END
+RestaturantDinnigPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaturantDinnigPreferences.java
+END
+DealEvent.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealEvent.hbm.xml
+END
+RestaurantRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantRating.java
+END
+SalesLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesLocation.java
+END
+Ambassador.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Ambassador.class
+END
+Landing.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Landing.hbm.xml
+END
+RestaurantDealHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDealHistory.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/User.hbm.xml
+END
+RestaurantDeal.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDeal.class
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Country.java
+END
+RestaurantCcProfile.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantCcProfile.hbm.xml
+END
+BillingMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingMethod.class
+END
+AdminDealImage.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImage.hbm.xml
+END
+ExternalReferral.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ExternalReferral.java
+END
+RestaurantLocation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocation.hbm.xml
+END
+SalesCommission.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesCommission.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/City.java
+END
+SalesRepresentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepresentInfo.java
+END
+RestaturantDinnigPreferences.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaturantDinnigPreferences.class
+END
+Restaurant.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Restaurant.hbm.xml
+END
+ConsumerPreference.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreference.hbm.xml
+END
+RestaurantDeal.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDeal.java
+END
+RestaurantType.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantType.class
+END
+DealRestriction.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealRestriction.class
+END
+AdminDealImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImage.java
+END
+RestaurantLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocation.java
+END
+BillingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/BillingType.java
+END
+SalesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesInfo.java
+END
+AmbReferences.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AmbReferences.class
+END
+Role.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Role.class
+END
+Config.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Config.class
+END
+DealName.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealName.hbm.xml
+END
+ConsumerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerEvent.java
+END
+StateTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/StateTax.java
+END
+Support.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Support.class
+END
+SalesManagerInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesManagerInfo.hbm.xml
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/User.class
+END
+RestaurantDinnigPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDinnigPreferences.java
+END
+SalesZipCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesZipCode.class
+END
+Transaction.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Transaction.hbm.xml
+END
+ConsumerPreferCity.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreferCity.hbm.xml
+END
+DiningStyle.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DiningStyle.hbm.xml
+END
+ConsumerPreference.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerPreference.class
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/User.java
+END
+DealRestriction.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealRestriction.hbm.xml
+END
+SalesRepZipcodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepZipcodes.java
+END
+RestaurantDealHistory.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantDealHistory.class
+END
+SalesLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesLocation.class
+END
+UserValidationCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/UserValidationCode.java
+END
+Events.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Events.class
+END
+DiningStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DiningStyle.java
+END
+DealName.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealName.class
+END
+City.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/City.class
+END
+SalesCommission.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesCommission.class
+END
+DealDescription.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealDescription.hbm.xml
+END
+ConsumerReservation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ConsumerReservation.hbm.xml
+END
+HomeSignUp.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/HomeSignUp.hbm.xml
+END
+SalesManagerInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesManagerInfo.class
+END
+SalesRepZipcodes.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesRepZipcodes.class
+END
+RestaurantLocationPreference.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantLocationPreference.hbm.xml
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Config.java
+END
+DealName.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealName.java
+END
+RestaurantPaymentProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantPaymentProfile.java
+END
+UserValidationCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/UserValidationCode.hbm.xml
+END
+DealDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealDescription.java
+END
+Ambassador.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/Ambassador.java
+END
+procedure.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/procedure.hbm.xml
+END
+SalesManagerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesManagerInfo.java
+END
+CommissionRate.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CommissionRate.class
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/State.java
+END
+ZipCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/ZipCode.hbm.xml
+END
+RestaurantCC.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantCC.class
+END
+DealTemplate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/DealTemplate.hbm.xml
+END
+CuisineType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/CuisineType.hbm.xml
+END
+SalesZipCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/SalesZipCode.java
+END
+AdminDealImages.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/AdminDealImages.class
+END
+PriceIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/PriceIndex.java
+END
+RestaurantPaymentProfile.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantPaymentProfile.class
+END
+RestaurantCC.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/dao/pojo/RestaurantCC.java
+END

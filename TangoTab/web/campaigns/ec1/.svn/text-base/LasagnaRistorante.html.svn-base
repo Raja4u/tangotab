@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+	<title>TangoTab.com</title>
+	
+	<style>
+		.header 	{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666;}
+		.title  	{font-family:Arial, Helvetica, sans-serif; font-size:24px; font-weight:bold; font-style:italic; color:#829500;} 
+		.dealtitle  {font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#829500;} 
+		.dealtext	{font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000000;} 
+		.dealtitle2  {font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000000;} 
+		
+	</style>
+	
+</head>
+
+<body>
+
+
+	<!-- START HEADER -->
+	
+	<table width="650" cellpadding="5" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
+	<tr bgcolor="#000000">
+		<td align="left" bgcolor="#000000" class="header" >
+			
+			<!-- CHANGE Restaurant Logo -->
+			<a href="http://www.lasagnarestaurant.com/">
+				<img src="http://www.tangotab.com/campaigns/ec1/images/lasagnalogo.jpg" border="0" height="100" vspace="5">		
+			</a>
+		</td>
+		
+		<td align="center" bgcolor="#000000" class="header">&nbsp;
+					
+		</td>
+		
+		<td align="right" bgcolor="#000000" class="header">
+		
+			<a href="http://www.tangotab.com">
+			<img src="http://www.tangotab.com/images/logo.png" border="0">		
+			</a>
+			
+		</td>
+	</tr>
+	</table>
+	
+	
+	
+	<table width="650" cellpadding="15" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
+	
+	<tr bgcolor="#ffffff">
+		<td colspan="3" class="title" align="center">
+		
+			<!-- CHANGE Title -->
+			Enjoy Lasagna Ristorante offers on   
+			
+			<a href="http://www.tangotab.com" style="text-decoration:none;" class="title">
+				www.TangoTab.com
+			</a> 
+			
+		</td>
+	</tr>
+	</table>
+	
+	
+	<table width="650" cellpadding="3" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
+	
+	<tr bgcolor="#ffffff">
+		<td align="center" valign="top" class="dealtitle" width="150" >
+			
+			
+			
+				<table cellpadding="6" cellspacing="0" border="0" width="144" bgcolor="#ff9e00">
+				<tr><td align="center" class="dealtitle2">
+				
+				<!-- CHANGE link to deal -->
+				<a href="http://www.tangotab.com/jsp/dealSummary.do?dealId=97" style="text-decoration:none; color:#000000;">
+				<font style="font-size:22px; color:#000000">25% Off</font><br style="color:#000000">Regular Menu now Exclusively on TangoTab<br>
+				<br style="font-size:6px;">
+				</a>
+				
+				</td></tr></table>
+			
+			
+			<!-- CHANGE link to deal -->
+			<br style="font-size:6px;">
+			<a href="http://www.tangotab.com/jsp/dealSummary.do?dealId=97">
+				<img src="http://www.tangotab.com/campaigns/ec1/images/getyoursnow.jpg" border="0" align="bottom">
+			</a>
+			
+			<!-- CHANGE forward to friend link -->
+			<br style="font-size:1px;">
+			<br style="font-size:8px;">
+			<a href="http://tangotab.com/jsp/Friendforward.do?dealId=97">
+				<img src="http://www.tangotab.com/campaigns/ec1/images/refer.jpg" border="0" align="bottom">
+			</a>
+			
+			<!-- link to refer a friend to tangotab -->
+			<br style="font-size:1px;">
+			<br style="font-size:8px;">
+			<a href="http://www.tangotab.com/refer/referfriends.jsp">
+				<img src="http://www.tangotab.com/campaigns/ec1/images/invite.jpg" border="0" align="bottom" >
+			</a>
+			
+			
+		</td>
+		<td align="left" valign="top" class="dealtext" width="300">
+		
+			<!-- CHANGE description -->
+			
+			Our first location opened in 1993. Soon after opening we earned a solid reputation for our great food and great service, always at a great price!<br>
+			<br>
+			Our homemade delicious food includes our specialty of 17 different lasagnas baked to order, veal, chicken, fish dishes and pastas of many nations.<br>
+			<br>
+			We also have a full service of wine, beer and liquor bar for our customers to enjoy.
+
+		</td>
+		<td align="right" valign="top" class="header" width="200">
+
+		
+			<!-- CHANGE restaurant photo -->
+			<img src="http://www.tangotab.com/campaigns/ec1/images/LasagnaRistorante.png" border="0" width="200" align="bottom">
+			
+			<br>
+			<br style="font-size:3px;">
+			
+			
+			
+				<table cellpadding="6" cellspacing="0" border="0" width="200" bgcolor="#ff9e00">
+				<tr><td align="center" class="dealtitle2">
+				
+				<!-- CHANGE link to deal -->
+				<a href="http://tangotab.com/jsp/dealSummary.do?dealId=97" style="text-decoration:none; color:#000000;">
+				<font style="font-size:20px; font-style:italic; color:#000000">Get Yours Now >></font>
+				</a>
+				
+				</td></tr></table>
+			
+			
+		</td>
+	</tr>
+	
+	
+	<tr>
+		<td colspan="3">
+				<img src="http://www.tangotab.com/images/footer.png" border="0" width="645">
+		</td>
+	</tr>
+	
+	
+	
+	</table>
+	
+</body>
+</html>

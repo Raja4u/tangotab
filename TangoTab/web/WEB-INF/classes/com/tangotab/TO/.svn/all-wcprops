@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TangoTabSpring/!svn/ver/12/TangoTab/src/com/tangotab/TO
+END
+LocationTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/LocationTO.class
+END
+CityTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/CityTO.class
+END
+RestaurantTransactionTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RestaurantTransactionTO.java
+END
+SalesManagerTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SalesManagerTO.java
+END
+SuggestRestTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SuggestRestTO.class
+END
+RevenueReportTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RevenueReportTO.java
+END
+DateTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DateTO.java
+END
+PriceIndexTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PriceIndexTO.class
+END
+UserTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/UserTO.java
+END
+ContactTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ContactTO.class
+END
+SuggestRestTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SuggestRestTO.java
+END
+ImageTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ImageTO.java
+END
+RatingTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RatingTO.java
+END
+WeekDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/WeekDate.java
+END
+CountryTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/CountryTO.class
+END
+ContactTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ContactTO.java
+END
+OfferDetailsTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/OfferDetailsTO.class
+END
+DropDownTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DropDownTO.java
+END
+DealDescriptionTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DealDescriptionTO.class
+END
+ConsumerReservationTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ConsumerReservationTO.class
+END
+CountryTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/CountryTO.java
+END
+CharityTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/CharityTO.java
+END
+DealTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/12/TangoTab/src/com/tangotab/TO/DealTO.java
+END
+OfferDetailsTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/OfferDetailsTO.java
+END
+RatingTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RatingTO.class
+END
+BillingCcTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/BillingCcTO.class
+END
+PaymentTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PaymentTO.java
+END
+StateTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/StateTO.java
+END
+BookDealTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/BookDealTO.java
+END
+DropDownTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DropDownTO.class
+END
+PriceIndexTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PriceIndexTO.java
+END
+ReportTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ReportTO.class
+END
+DateTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DateTO.class
+END
+BookDealTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/BookDealTO.class
+END
+StateTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/StateTO.class
+END
+QueryTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/QueryTO.java
+END
+SearchTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SearchTO.java
+END
+SortByTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SortByTO.class
+END
+DealSummaryTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DealSummaryTO.class
+END
+ReportTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ReportTO.java
+END
+LandingTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/LandingTO.java
+END
+SupportTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SupportTO.java
+END
+RestaurantTransactionTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RestaurantTransactionTO.class
+END
+DealSummaryTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DealSummaryTO.java
+END
+BillingCcTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/BillingCcTO.java
+END
+SalesManagerTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SalesManagerTO.class
+END
+RestaurantTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/RestaurantTO.java
+END
+DealTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DealTO.class
+END
+PublishDealTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PublishDealTO.java
+END
+SupportTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SupportTO.class
+END
+PaymentTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PaymentTO.class
+END
+UserTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/UserTO.class
+END
+EventsTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/EventsTO.java
+END
+ImageTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ImageTO.class
+END
+LocationTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/LocationTO.java
+END
+CityTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/CityTO.java
+END
+DealDescriptionTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/DealDescriptionTO.java
+END
+WeekDate.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/WeekDate.class
+END
+ConsumerReservationTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/ConsumerReservationTO.java
+END
+PublishDealTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/PublishDealTO.class
+END
+SortByTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SortByTO.java
+END
+EventsTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/EventsTO.class
+END
+QueryTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/QueryTO.class
+END
+SearchTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/TO/SearchTO.class
+END

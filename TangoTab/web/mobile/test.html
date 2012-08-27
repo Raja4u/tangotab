@@ -1,0 +1,36 @@
+
+
+<html>
+<head>
+<script type="text/javascript">
+function display(){
+var ua = navigator.userAgent;
+
+alert(ua);
+var checker = {
+  iphone: ua.match(/(iPhone|iPod|iPad)/),
+  blackberry: ua.match(/BlackBerry/),
+  android: ua.match(/Android/)
+  
+};
+
+ if(ua.indexOf('NT') != -1)
+   alert('windowsNT');
+ if(ua.indexOf('iPhone') != -1)
+   alert('iPHONE');
+ if(ua.indexOf('iPod') != -1)
+   alert('iPOD');
+ if(ua.indexOf('iPad') != -1)
+   alert('iPAD');
+ if(ua.indexOf('Android') != -1)
+   alert('Androiddevice');
+
+
+}
+
+</script>
+</head>
+<body onload="display()">
+           DISPLAYING DEVICE
+</body>
+</html>

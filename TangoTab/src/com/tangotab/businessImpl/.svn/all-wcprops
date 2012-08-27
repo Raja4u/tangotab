@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TangoTabSpring/!svn/ver/17/TangoTab/src/com/tangotab/businessImpl
+END
+LocationBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/LocationBOImpl.class
+END
+RestaurantAdminBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/RestaurantAdminBOImpl.java
+END
+RestaurantDiscountBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/RestaurantDiscountBOImpl.java
+END
+UserBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/UserBOImpl.class
+END
+CommissionBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/CommissionBOImpl.class
+END
+BillingMethodsBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/BillingMethodsBOImpl.java
+END
+DealBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/DealBOImpl.java
+END
+ConfigBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/ConfigBOImpl.java
+END
+LocationBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/LocationBOImpl.java
+END
+TransactionBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/TransactionBOImpl.class
+END
+BaseBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/BaseBOImpl.java
+END
+CommonBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/CommonBOImpl.class
+END
+AdminBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/AdminBOImpl.class
+END
+UserBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/17/TangoTab/src/com/tangotab/businessImpl/UserBOImpl.java
+END
+BusinessFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/BusinessFactory.java
+END
+CommissionBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/CommissionBOImpl.java
+END
+RestaurantAdminBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/RestaurantAdminBOImpl.class
+END
+RestaurantDiscountBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/RestaurantDiscountBOImpl.class
+END
+TransactionBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/TransactionBOImpl.java
+END
+CommonBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/CommonBOImpl.java
+END
+BillingMethodsBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/BillingMethodsBOImpl.class
+END
+AdminBOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/AdminBOImpl.java
+END
+DealBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/DealBOImpl.class
+END
+ConfigBOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TangoTabSpring/!svn/ver/5/TangoTab/src/com/tangotab/businessImpl/ConfigBOImpl.class
+END
